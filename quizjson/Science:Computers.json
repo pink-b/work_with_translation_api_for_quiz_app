@@ -1,0 +1,2855 @@
+{
+  "category": "Science: Computers",
+  "category_id": 19,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does RAID stand for?",
+      "correct_answer": "Redundant Array of Independent Disks",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Rapid Access for Indexed Devices"
+        },
+        {
+          "id": 1,
+          "answer": "Range of Applications with Identical Designs"
+        },
+        {
+          "id": 2,
+          "answer": "Randomized Abstract Identification Description"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": ".rs is the top-level domain for what country?",
+      "correct_answer": "Serbia",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Romania"
+        },
+        {
+          "id": 1,
+          "answer": "Russia"
+        },
+        {
+          "id": 2,
+          "answer": "Rwanda"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which computer language would you associate Django framework with?",
+      "correct_answer": "Python",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "C#"
+        },
+        {
+          "id": 1,
+          "answer": "C++"
+        },
+        {
+          "id": 2,
+          "answer": "Java"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the code name for the mobile operating system Android 7.0?",
+      "correct_answer": "Nougat",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ice Cream Sandwich"
+        },
+        {
+          "id": 1,
+          "answer": "Jelly Bean"
+        },
+        {
+          "id": 2,
+          "answer": "Marshmallow"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these people was NOT a founder of Apple Inc?",
+      "correct_answer": "Jonathan Ive",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Steve Jobs"
+        },
+        {
+          "id": 1,
+          "answer": "Ronald Wayne"
+        },
+        {
+          "id": 2,
+          "answer": "Steve Wozniak"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the security vulnerability found in Bash in 2014?",
+      "correct_answer": "Shellshock",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Heartbleed"
+        },
+        {
+          "id": 1,
+          "answer": "Bashbug"
+        },
+        {
+          "id": 2,
+          "answer": "Stagefright"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What amount of bits commonly equals one byte?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1"
+        },
+        {
+          "id": 1,
+          "answer": "2"
+        },
+        {
+          "id": 2,
+          "answer": "64"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How long is an IPv6 address?",
+      "correct_answer": "128 bits",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "32 bits"
+        },
+        {
+          "id": 1,
+          "answer": "64 bits"
+        },
+        {
+          "id": 2,
+          "answer": "128 bytes"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The teapot often seen in many 3D modeling applications is called what?",
+      "correct_answer": "Utah Teapot",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Pixar Teapot"
+        },
+        {
+          "id": 1,
+          "answer": "3D Teapot"
+        },
+        {
+          "id": 2,
+          "answer": "Tennessee Teapot"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+      "correct_answer": "print(&quot;Hello World&quot;)",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "console.log(&quot;Hello World&quot;)"
+        },
+        {
+          "id": 1,
+          "answer": "echo &quot;Hello World&quot;"
+        },
+        {
+          "id": 2,
+          "answer": "printf(&quot;Hello World&quot;)"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What internet protocol was documented in RFC 1459?",
+      "correct_answer": "IRC",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "HTTP"
+        },
+        {
+          "id": 1,
+          "answer": "HTTPS"
+        },
+        {
+          "id": 2,
+          "answer": "FTP"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The HTML5 standard was published in 2014.",
+      "correct_answer": true,
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many bytes are in a single Kibibyte?",
+      "correct_answer": "1024",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2400"
+        },
+        {
+          "id": 1,
+          "answer": "1000"
+        },
+        {
+          "id": 2,
+          "answer": "1240"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "correct_answer": "2005",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1999"
+        },
+        {
+          "id": 1,
+          "answer": "2002"
+        },
+        {
+          "id": 2,
+          "answer": "2008"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not a layer in the OSI model for data communications?",
+      "correct_answer": "Connection Layer",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Application Layer"
+        },
+        {
+          "id": 1,
+          "answer": "Transport Layer"
+        },
+        {
+          "id": 2,
+          "answer": "Physical Layer"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+      "correct_answer": "Shamir",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Secure"
+        },
+        {
+          "id": 1,
+          "answer": "Schottky"
+        },
+        {
+          "id": 2,
+          "answer": "Stable"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Harvard architecture for micro-controllers added which additional bus?",
+      "correct_answer": "Instruction",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Address"
+        },
+        {
+          "id": 1,
+          "answer": "Data"
+        },
+        {
+          "id": 2,
+          "answer": "Control"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What port does HTTP run on?",
+      "correct_answer": "80",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "53"
+        },
+        {
+          "id": 1,
+          "answer": "443"
+        },
+        {
+          "id": 2,
+          "answer": "23"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does LAN stand for?",
+      "correct_answer": "Local Area Network",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Long Antenna Node"
+        },
+        {
+          "id": 1,
+          "answer": "Light Access Node"
+        },
+        {
+          "id": 2,
+          "answer": "Land Address Navigation"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On Twitter, what was the original character limit for a Tweet?",
+      "correct_answer": "140",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "120"
+        },
+        {
+          "id": 1,
+          "answer": "160"
+        },
+        {
+          "id": 2,
+          "answer": "100"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does &quot;LCD&quot; stand for?",
+      "correct_answer": "Liquid Crystal Display",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Language Control Design"
+        },
+        {
+          "id": 1,
+          "answer": "Last Common Difference"
+        },
+        {
+          "id": 2,
+          "answer": "Long Continuous Design"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Android versions are named in alphabetical order.",
+      "correct_answer": true,
+      "id": 21
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "America Online (AOL) started out as which of these online service providers?",
+      "correct_answer": "Quantum Link",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "CompuServe"
+        },
+        {
+          "id": 1,
+          "answer": "Prodigy"
+        },
+        {
+          "id": 2,
+          "answer": "GEnie"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+      "correct_answer": "Year",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Four Years"
+        },
+        {
+          "id": 1,
+          "answer": "Two Years"
+        },
+        {
+          "id": 2,
+          "answer": "Eight Years"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the programming language &quot;C#&quot; released?",
+      "correct_answer": "2000",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1998"
+        },
+        {
+          "id": 1,
+          "answer": "1999"
+        },
+        {
+          "id": 2,
+          "answer": "2001"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Time on Computers is measured via the EPOX System.",
+      "correct_answer": false,
+      "id": 25
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term MIME stand for, in regards to computing?",
+      "correct_answer": "Multipurpose Internet Mail Extensions",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Mail Internet Mail Exchange"
+        },
+        {
+          "id": 1,
+          "answer": "Multipurpose Interleave Mail Exchange"
+        },
+        {
+          "id": 2,
+          "answer": "Mail Interleave Method Exchange"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",
+      "correct_answer": false,
+      "id": 27
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "AMD created the first consumer 64-bit processor.",
+      "correct_answer": true,
+      "id": 28
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "It&#039;s not possible to format a write-protected DVD-R Hard Disk.",
+      "correct_answer": true,
+      "id": 29
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.",
+      "correct_answer": true,
+      "id": 30
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many cores does the Intel i7-6950X have?",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "12"
+        },
+        {
+          "id": 1,
+          "answer": "8"
+        },
+        {
+          "id": 2,
+          "answer": "4"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "correct_answer": "Transport",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Session"
+        },
+        {
+          "id": 1,
+          "answer": "Data link"
+        },
+        {
+          "id": 2,
+          "answer": "Network"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The acronym &quot;RIP&quot; stands for which of these?",
+      "correct_answer": "Routing Information Protocol",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Runtime Instance Processes"
+        },
+        {
+          "id": 1,
+          "answer": "Regular Interval Processes"
+        },
+        {
+          "id": 2,
+          "answer": "Routine Inspection Protocol"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the computer software acronym JVM stand for?",
+      "correct_answer": "Java Virtual Machine",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Java Vendor Machine"
+        },
+        {
+          "id": 1,
+          "answer": "Java Visual Machine"
+        },
+        {
+          "id": 2,
+          "answer": "Just Virtual Machine"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Whistler was the codename of this Microsoft Operating System.",
+      "correct_answer": "Windows XP",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Windows 2000"
+        },
+        {
+          "id": 1,
+          "answer": "Windows 7"
+        },
+        {
+          "id": 2,
+          "answer": "Windows 95"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",
+      "correct_answer": true,
+      "id": 36
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does GHz stand for?",
+      "correct_answer": "Gigahertz",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Gigahotz"
+        },
+        {
+          "id": 1,
+          "answer": "Gigahetz"
+        },
+        {
+          "id": 2,
+          "answer": "Gigahatz"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Ada Lovelace is often considered the first computer programmer.",
+      "correct_answer": true,
+      "id": 38
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Generally, which component of a computer draws the most power?",
+      "correct_answer": "Video Card",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hard Drive"
+        },
+        {
+          "id": 1,
+          "answer": "Processor"
+        },
+        {
+          "id": 2,
+          "answer": "Power Supply"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following computer components can be built using only NAND gates?",
+      "correct_answer": "ALU",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "CPU"
+        },
+        {
+          "id": 1,
+          "answer": "RAM"
+        },
+        {
+          "id": 2,
+          "answer": "Register"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+      "correct_answer": "HD Graphics 500",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "HD Graphics 700 "
+        },
+        {
+          "id": 1,
+          "answer": "HD Graphics 600"
+        },
+        {
+          "id": 2,
+          "answer": "HD Graphics 7000"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+      "correct_answer": false,
+      "id": 42
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first Android version specifically optimized for tablets?",
+      "correct_answer": "Honeycomb",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Eclair"
+        },
+        {
+          "id": 1,
+          "answer": "Froyo"
+        },
+        {
+          "id": 2,
+          "answer": "Marshmellow"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The last Windows operating system to be based on the Windows 9x kernel was Windows 98.",
+      "correct_answer": false,
+      "id": 44
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many Hz does the video standard PAL support?",
+      "correct_answer": "50",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "59"
+        },
+        {
+          "id": 1,
+          "answer": "60"
+        },
+        {
+          "id": 2,
+          "answer": "25"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "RAM stands for Random Access Memory.",
+      "correct_answer": true,
+      "id": 46
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How fast is USB 3.1 Gen 2 theoretically?",
+      "correct_answer": "10 Gb/s",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "5 Gb/s"
+        },
+        {
+          "id": 1,
+          "answer": "8 Gb/s"
+        },
+        {
+          "id": 2,
+          "answer": "1 Gb/s"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the founder of Palantir?",
+      "correct_answer": "Peter Thiel",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Mark Zuckerberg"
+        },
+        {
+          "id": 1,
+          "answer": "Marc Benioff"
+        },
+        {
+          "id": 2,
+          "answer": "Jack Dorsey"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correct_answer": "Objective-C",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "C#"
+        },
+        {
+          "id": 1,
+          "answer": "Ruby"
+        },
+        {
+          "id": 2,
+          "answer": "C++"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Red"
+        },
+        {
+          "id": 1,
+          "answer": "Blue"
+        },
+        {
+          "id": 2,
+          "answer": "Yellow"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "correct_answer": "Non-impact printer",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Impact printer"
+        },
+        {
+          "id": 1,
+          "answer": "Daisywheel printer"
+        },
+        {
+          "id": 2,
+          "answer": "Dot matrix printer"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which programming language was developed by Sun Microsystems in 1995?",
+      "correct_answer": "Java",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Python"
+        },
+        {
+          "id": 1,
+          "answer": "Solaris OS"
+        },
+        {
+          "id": 2,
+          "answer": "C++"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The logo for Snapchat is a Bell.",
+      "correct_answer": false,
+      "id": 53
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the original author of the realtime physics engine called PhysX?",
+      "correct_answer": "NovodeX",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ageia"
+        },
+        {
+          "id": 1,
+          "answer": "Nvidia"
+        },
+        {
+          "id": 2,
+          "answer": "AMD"
+        }
+      ],
+      "id": 54
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When Gmail first launched, how much storage did it provide for your email?",
+      "correct_answer": "1GB",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "512MB"
+        },
+        {
+          "id": 1,
+          "answer": "5GB"
+        },
+        {
+          "id": 2,
+          "answer": "Unlimited"
+        }
+      ],
+      "id": 55
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which day did the World Wide Web go online?",
+      "correct_answer": "December 20, 1990",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "December 17, 1996"
+        },
+        {
+          "id": 1,
+          "answer": "November 12, 1990"
+        },
+        {
+          "id": 2,
+          "answer": "November 24, 1995"
+        }
+      ],
+      "id": 56
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "correct_answer": "Micronesia",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Fiji"
+        },
+        {
+          "id": 1,
+          "answer": "Tuvalu"
+        },
+        {
+          "id": 2,
+          "answer": "Marshall Islands"
+        }
+      ],
+      "id": 57
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "MacOS is based on Linux.",
+      "correct_answer": false,
+      "id": 58
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+      "correct_answer": "Hexidecimal",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Binary"
+        },
+        {
+          "id": 1,
+          "answer": "Duodecimal"
+        },
+        {
+          "id": 2,
+          "answer": "Octal"
+        }
+      ],
+      "id": 59
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+      "correct_answer": "Binary",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "JavaScript"
+        },
+        {
+          "id": 1,
+          "answer": "C++"
+        },
+        {
+          "id": 2,
+          "answer": "Python"
+        }
+      ],
+      "id": 60
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not a key value of Agile software development?",
+      "correct_answer": "Comprehensive documentation",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Individuals and interactions"
+        },
+        {
+          "id": 1,
+          "answer": "Customer collaboration"
+        },
+        {
+          "id": 2,
+          "answer": "Responding to change"
+        }
+      ],
+      "id": 61
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+      "correct_answer": "Game Maker",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Stencyl"
+        },
+        {
+          "id": 1,
+          "answer": "Construct"
+        },
+        {
+          "id": 2,
+          "answer": "Torque 2D"
+        }
+      ],
+      "id": 62
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "correct_answer": ".svg",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": ".png"
+        },
+        {
+          "id": 1,
+          "answer": ".jpeg"
+        },
+        {
+          "id": 2,
+          "answer": ".gif"
+        }
+      ],
+      "id": 63
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the default theme that is installed with Windows XP?",
+      "correct_answer": "Luna",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Neptune"
+        },
+        {
+          "id": 1,
+          "answer": "Whistler"
+        },
+        {
+          "id": 2,
+          "answer": "Bliss"
+        }
+      ],
+      "id": 64
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is the oldest of these computers by release date?",
+      "correct_answer": "TRS-80",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Commodore 64"
+        },
+        {
+          "id": 1,
+          "answer": "ZX Spectrum"
+        },
+        {
+          "id": 2,
+          "answer": "Apple 3"
+        }
+      ],
+      "id": 65
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The first computer bug was formed by faulty wires.",
+      "correct_answer": false,
+      "id": 66
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does AD stand for in relation to Windows Operating Systems? ",
+      "correct_answer": "Active Directory",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Alternative Drive"
+        },
+        {
+          "id": 1,
+          "answer": "Automated Database"
+        },
+        {
+          "id": 2,
+          "answer": "Active Department"
+        }
+      ],
+      "id": 67
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.",
+      "correct_answer": false,
+      "id": 68
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these programming languages is a low-level language?",
+      "correct_answer": "Assembly",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Python"
+        },
+        {
+          "id": 1,
+          "answer": "C#"
+        },
+        {
+          "id": 2,
+          "answer": "Pascal"
+        }
+      ],
+      "id": 69
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+      "correct_answer": true,
+      "id": 70
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+      "correct_answer": "Injection ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Broken Authentication"
+        },
+        {
+          "id": 1,
+          "answer": "Cross-Site Scripting"
+        },
+        {
+          "id": 2,
+          "answer": "Insecure Direct Object References"
+        }
+      ],
+      "id": 71
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+      "correct_answer": false,
+      "id": 72
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "DHCP stands for Dynamic Host Configuration Port.",
+      "correct_answer": false,
+      "id": 73
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.",
+      "correct_answer": false,
+      "id": 74
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the acronym CDN stand for in terms of networking?",
+      "correct_answer": "Content Delivery Network",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Content Distribution Network"
+        },
+        {
+          "id": 1,
+          "answer": "Computational Data Network"
+        },
+        {
+          "id": 2,
+          "answer": "Compressed Data Network"
+        }
+      ],
+      "id": 75
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The first dual-core CPU was the Intel Pentium D.",
+      "correct_answer": false,
+      "id": 76
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+      "correct_answer": "Cherry MX Blue",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Cherry MX Black"
+        },
+        {
+          "id": 1,
+          "answer": "Cherry MX Red"
+        },
+        {
+          "id": 2,
+          "answer": "Cherry MX Brown"
+        }
+      ],
+      "id": 77
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The open source program Redis is a relational database server.",
+      "correct_answer": false,
+      "id": 78
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term GPU stand for?",
+      "correct_answer": "Graphics Processing Unit",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Gaming Processor Unit"
+        },
+        {
+          "id": 1,
+          "answer": "Graphite Producing Unit"
+        },
+        {
+          "id": 2,
+          "answer": "Graphical Proprietary Unit"
+        }
+      ],
+      "id": 79
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the first Bulgarian personal computer?",
+      "correct_answer": "IMKO-1",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Pravetz 82"
+        },
+        {
+          "id": 1,
+          "answer": "Pravetz 8D"
+        },
+        {
+          "id": 2,
+          "answer": "IZOT 1030"
+        }
+      ],
+      "id": 80
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Central Process Unit"
+        },
+        {
+          "id": 1,
+          "answer": "Computer Personal Unit"
+        },
+        {
+          "id": 2,
+          "answer": "Central Processor Unit"
+        }
+      ],
+      "id": 81
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which computer hardware device is the BIOS chip located?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hard Disk Drive"
+        },
+        {
+          "id": 1,
+          "answer": "Central Processing Unit"
+        },
+        {
+          "id": 2,
+          "answer": "Graphics Processing Unit"
+        }
+      ],
+      "id": 82
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, what do you call functions with the same name but different implementations?",
+      "correct_answer": "Overloading",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Overriding"
+        },
+        {
+          "id": 1,
+          "answer": "Abstracting"
+        },
+        {
+          "id": 2,
+          "answer": "Inheriting"
+        }
+      ],
+      "id": 83
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "correct_answer": "The Onion Router",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Only Router"
+        },
+        {
+          "id": 1,
+          "answer": "The Orange Router"
+        },
+        {
+          "id": 2,
+          "answer": "The Ominous Router"
+        }
+      ],
+      "id": 84
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "C#"
+        },
+        {
+          "id": 1,
+          "answer": "Python"
+        },
+        {
+          "id": 2,
+          "answer": "PHP"
+        }
+      ],
+      "id": 85
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+      "correct_answer": "C#",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Java"
+        },
+        {
+          "id": 1,
+          "answer": "C++"
+        },
+        {
+          "id": 2,
+          "answer": "Objective-C"
+        }
+      ],
+      "id": 86
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many values can a single byte represent?",
+      "correct_answer": "256",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "8"
+        },
+        {
+          "id": 1,
+          "answer": "1"
+        },
+        {
+          "id": 2,
+          "answer": "1024"
+        }
+      ],
+      "id": 87
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "HTML is what type of language?",
+      "correct_answer": "Markup Language",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Macro Language"
+        },
+        {
+          "id": 1,
+          "answer": "Programming Language"
+        },
+        {
+          "id": 2,
+          "answer": "Scripting Language"
+        }
+      ],
+      "id": 88
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which operating system was released first?",
+      "correct_answer": "Mac OS",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Windows"
+        },
+        {
+          "id": 1,
+          "answer": "Linux"
+        },
+        {
+          "id": 2,
+          "answer": "OS/2"
+        }
+      ],
+      "id": 89
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the Prt Sc button do?",
+      "correct_answer": "Captures what&#039;s on the screen and copies it to your clipboard",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Nothing"
+        },
+        {
+          "id": 1,
+          "answer": "Saves a .png file of what&#039;s on the screen in your screenshots folder in photos"
+        },
+        {
+          "id": 2,
+          "answer": "Closes all windows"
+        }
+      ],
+      "id": 90
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+      "correct_answer": "Coffee Lake",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Sandy Bridge"
+        },
+        {
+          "id": 1,
+          "answer": "Skylake"
+        },
+        {
+          "id": 2,
+          "answer": "Broadwell"
+        }
+      ],
+      "id": 91
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In computing terms, typically what does CLI stand for?",
+      "correct_answer": "Command Line Interface",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Common Language Input"
+        },
+        {
+          "id": 1,
+          "answer": "Control Line Interface"
+        },
+        {
+          "id": 2,
+          "answer": "Common Language Interface"
+        }
+      ],
+      "id": 92
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "A Boolean value of &quot;0&quot; represents which of these words?",
+      "correct_answer": false,
+      "id": 93
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "correct_answer": "Motorola 68000",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Zilog Z80"
+        },
+        {
+          "id": 1,
+          "answer": "Yamaha YM2612"
+        },
+        {
+          "id": 2,
+          "answer": "Intel 8088"
+        }
+      ],
+      "id": 94
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the number of keys on a standard Windows Keyboard?",
+      "correct_answer": "104",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "64"
+        },
+        {
+          "id": 1,
+          "answer": "94"
+        },
+        {
+          "id": 2,
+          "answer": "76"
+        }
+      ],
+      "id": 95
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the server hosting industry IaaS stands for...",
+      "correct_answer": "Infrastructure as a Service",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Internet as a Service"
+        },
+        {
+          "id": 1,
+          "answer": "Internet and a Server"
+        },
+        {
+          "id": 2,
+          "answer": "Infrastructure as a Server"
+        }
+      ],
+      "id": 96
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+      "correct_answer": "Amazon",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "eBay"
+        },
+        {
+          "id": 1,
+          "answer": "Overstock"
+        },
+        {
+          "id": 2,
+          "answer": "Shopify"
+        }
+      ],
+      "id": 97
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+      "correct_answer": "Santa Clara",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Palo Alto"
+        },
+        {
+          "id": 1,
+          "answer": "Cupertino"
+        },
+        {
+          "id": 2,
+          "answer": "Mountain View"
+        }
+      ],
+      "id": 98
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What five letter word is the motto of the IBM Computer company?",
+      "correct_answer": "Think",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Click"
+        },
+        {
+          "id": 1,
+          "answer": "Logic"
+        },
+        {
+          "id": 2,
+          "answer": "Pixel"
+        }
+      ],
+      "id": 99
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;HTML&quot; stands for Hypertext Markup Language.",
+      "correct_answer": true,
+      "id": 100
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does LTS stand for in the software market?",
+      "correct_answer": "Long Term Support",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Long Taco Service"
+        },
+        {
+          "id": 1,
+          "answer": "Ludicrous Transfer Speed"
+        },
+        {
+          "id": 2,
+          "answer": "Ludicrous Turbo Speed"
+        }
+      ],
+      "id": 101
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Windows 7 operating system has six main editions.",
+      "correct_answer": true,
+      "id": 102
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the first company to use the term &quot;Golden Master&quot;?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "IBM"
+        },
+        {
+          "id": 1,
+          "answer": "Microsoft"
+        },
+        {
+          "id": 2,
+          "answer": "Google"
+        }
+      ],
+      "id": 103
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Linus Torvalds created Linux and Git.",
+      "correct_answer": true,
+      "id": 104
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "correct_answer": "Inkscape",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Paint.NET"
+        },
+        {
+          "id": 1,
+          "answer": "GIMP"
+        },
+        {
+          "id": 2,
+          "answer": "Adobe Photoshop"
+        }
+      ],
+      "id": 105
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name given to Android 4.3?",
+      "correct_answer": "Jelly Bean",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Lollipop"
+        },
+        {
+          "id": 1,
+          "answer": "Nutella"
+        },
+        {
+          "id": 2,
+          "answer": "Froyo"
+        }
+      ],
+      "id": 106
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+      "correct_answer": "Neptune",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Enceladus"
+        },
+        {
+          "id": 1,
+          "answer": "Pollux"
+        },
+        {
+          "id": 2,
+          "answer": "Saturn"
+        }
+      ],
+      "id": 107
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+      "correct_answer": "Heat Sink",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "CPU Vent"
+        },
+        {
+          "id": 1,
+          "answer": "Temperature Decipator"
+        },
+        {
+          "id": 2,
+          "answer": "Heat Vent"
+        }
+      ],
+      "id": 108
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+      "correct_answer": false,
+      "id": 109
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": ".at is the top-level domain for what country?",
+      "correct_answer": "Austria",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Argentina"
+        },
+        {
+          "id": 1,
+          "answer": "Australia"
+        },
+        {
+          "id": 2,
+          "answer": "Angola"
+        }
+      ],
+      "id": 110
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does MIDI stand for?",
+      "correct_answer": "Musical Instrument Digital Interface",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Musical Interface of Digital Instruments"
+        },
+        {
+          "id": 1,
+          "answer": "Modular Interface of Digital Instruments"
+        },
+        {
+          "id": 2,
+          "answer": "Musical Instrument Data Interface"
+        }
+      ],
+      "id": 111
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;",
+      "correct_answer": true,
+      "id": 112
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which data structure does FILO apply to?",
+      "correct_answer": "Stack",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Queue"
+        },
+        {
+          "id": 1,
+          "answer": "Heap"
+        },
+        {
+          "id": 2,
+          "answer": "Tree"
+        }
+      ],
+      "id": 113
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In any programming language, what is the most common way to iterate through an array?",
+      "correct_answer": "&#039;For&#039; loops",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "&#039;If&#039; Statements"
+        },
+        {
+          "id": 1,
+          "answer": "&#039;Do-while&#039; loops"
+        },
+        {
+          "id": 2,
+          "answer": "&#039;While&#039; loops"
+        }
+      ],
+      "id": 114
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Approximately how many Apple I personal computers were created?",
+      "correct_answer": "200",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "100"
+        },
+        {
+          "id": 1,
+          "answer": "500"
+        },
+        {
+          "id": 2,
+          "answer": "1000"
+        }
+      ],
+      "id": 115
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Puma"
+        },
+        {
+          "id": 1,
+          "answer": "Tiger"
+        },
+        {
+          "id": 2,
+          "answer": "Leopard"
+        }
+      ],
+      "id": 116
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The C programming language was created by this American computer scientist. ",
+      "correct_answer": "Dennis Ritchie",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Tim Berners Lee"
+        },
+        {
+          "id": 1,
+          "answer": "al-Khwārizmī"
+        },
+        {
+          "id": 2,
+          "answer": "Willis Ware"
+        }
+      ],
+      "id": 117
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The T-Mobile Sidekick smartphone is a re-branded version of the Danger Hiptop.",
+      "correct_answer": true,
+      "id": 118
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In web design, what does CSS stand for?",
+      "correct_answer": "Cascading Style Sheet",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Counter Strike: Source"
+        },
+        {
+          "id": 1,
+          "answer": "Corrective Style Sheet"
+        },
+        {
+          "id": 2,
+          "answer": "Computer Style Sheet"
+        }
+      ],
+      "id": 119
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This mobile OS held the largest market share in 2012.",
+      "correct_answer": "iOS",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Android"
+        },
+        {
+          "id": 1,
+          "answer": "BlackBerry"
+        },
+        {
+          "id": 2,
+          "answer": "Symbian"
+        }
+      ],
+      "id": 120
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "correct_answer": "Apple",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Microsoft"
+        },
+        {
+          "id": 1,
+          "answer": "Atari"
+        },
+        {
+          "id": 2,
+          "answer": "Commodore"
+        }
+      ],
+      "id": 121
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.",
+      "correct_answer": false,
+      "id": 122
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Static"
+        },
+        {
+          "id": 1,
+          "answer": "Private"
+        },
+        {
+          "id": 2,
+          "answer": "Public"
+        }
+      ],
+      "id": 123
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+      "correct_answer": "Radia Perlman",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Paul Vixie"
+        },
+        {
+          "id": 1,
+          "answer": "Vint Cerf"
+        },
+        {
+          "id": 2,
+          "answer": "Michael Roberts"
+        }
+      ],
+      "id": 124
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What major programming language does Unreal Engine 4 use?",
+      "correct_answer": "C++",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Assembly"
+        },
+        {
+          "id": 1,
+          "answer": "C#"
+        },
+        {
+          "id": 2,
+          "answer": "ECMAScript"
+        }
+      ],
+      "id": 125
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+      "correct_answer": "2016",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2013"
+        },
+        {
+          "id": 1,
+          "answer": "2009"
+        },
+        {
+          "id": 2,
+          "answer": "2011"
+        }
+      ],
+      "id": 126
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "correct_answer": "Taiwan",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "United States"
+        },
+        {
+          "id": 1,
+          "answer": "Germany"
+        },
+        {
+          "id": 2,
+          "answer": "China (People&#039;s Republic of)"
+        }
+      ],
+      "id": 127
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these is not an official development name for a Ubuntu release?",
+      "correct_answer": "Mystic Mansion",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Trusty Tahr"
+        },
+        {
+          "id": 1,
+          "answer": "Utopic Unicorn"
+        },
+        {
+          "id": 2,
+          "answer": "Wily Werewolf"
+        }
+      ],
+      "id": 128
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+      "correct_answer": "Secret sharing scheme",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hashing algorithm"
+        },
+        {
+          "id": 1,
+          "answer": "Asymmetric encryption"
+        },
+        {
+          "id": 2,
+          "answer": "Stream cipher"
+        }
+      ],
+      "id": 129
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "correct_answer": "ADPCM Sampler",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "FM Synthesizer"
+        },
+        {
+          "id": 1,
+          "answer": "Programmable Sound Generator (PSG)"
+        },
+        {
+          "id": 2,
+          "answer": "PCM Sampler"
+        }
+      ],
+      "id": 130
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many bits make up the significand portion of a single precision floating point number?",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "8"
+        },
+        {
+          "id": 1,
+          "answer": "53"
+        },
+        {
+          "id": 2,
+          "answer": "15"
+        }
+      ],
+      "id": 131
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Intel 486SX"
+        },
+        {
+          "id": 1,
+          "answer": "TMS 1000"
+        },
+        {
+          "id": 2,
+          "answer": "AMD AM386"
+        }
+      ],
+      "id": 132
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "correct_answer": "Heartbleed",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Shellshock"
+        },
+        {
+          "id": 1,
+          "answer": "Corrupted Blood"
+        },
+        {
+          "id": 2,
+          "answer": "Shellscript"
+        }
+      ],
+      "id": 133
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Windows ME operating system was released in the year 2000.",
+      "correct_answer": true,
+      "id": 134
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+      "correct_answer": "Quantum Teleportation",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Super Dense Coding"
+        },
+        {
+          "id": 1,
+          "answer": "Quantum Entanglement"
+        },
+        {
+          "id": 2,
+          "answer": "Quantum Programming"
+        }
+      ],
+      "id": 135
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Washington"
+        },
+        {
+          "id": 1,
+          "answer": "Colorado"
+        },
+        {
+          "id": 2,
+          "answer": "Arizona"
+        }
+      ],
+      "id": 136
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What does the International System of Quantities refer 1024 bytes as?",
+      "correct_answer": "Kibibyte",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Kylobyte"
+        },
+        {
+          "id": 1,
+          "answer": "Kilobyte"
+        },
+        {
+          "id": 2,
+          "answer": "Kelobyte"
+        }
+      ],
+      "id": 137
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The name of technology company HP stands for what?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Howard Packmann"
+        },
+        {
+          "id": 1,
+          "answer": "Husker-Pollosk"
+        },
+        {
+          "id": 2,
+          "answer": "Hellman-Pohl"
+        }
+      ],
+      "id": 138
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "correct_answer": "?:",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "??"
+        },
+        {
+          "id": 1,
+          "answer": "if then"
+        },
+        {
+          "id": 2,
+          "answer": "?"
+        }
+      ],
+      "id": 139
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Linux was first created as an alternative to Windows XP.",
+      "correct_answer": false,
+      "id": 140
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+      "correct_answer": "1000",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "512"
+        },
+        {
+          "id": 1,
+          "answer": "1024"
+        },
+        {
+          "id": 2,
+          "answer": "500"
+        }
+      ],
+      "id": 141
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What language does Node.js use?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Java"
+        },
+        {
+          "id": 1,
+          "answer": "Java Source"
+        },
+        {
+          "id": 2,
+          "answer": "Joomla Source Code"
+        }
+      ],
+      "id": 142
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the domain name for the country Tuvalu?",
+      "correct_answer": ".tv",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": ".tu"
+        },
+        {
+          "id": 1,
+          "answer": ".tt"
+        },
+        {
+          "id": 2,
+          "answer": ".tl"
+        }
+      ],
+      "id": 143
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many kilobytes in one gigabyte (in decimal)?",
+      "correct_answer": "1000000",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1024"
+        },
+        {
+          "id": 1,
+          "answer": "1000"
+        },
+        {
+          "id": 2,
+          "answer": "1048576"
+        }
+      ],
+      "id": 144
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+      "correct_answer": "Midnight, January 1, 1970",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Midnight, July 4, 1976"
+        },
+        {
+          "id": 1,
+          "answer": "Midnight on the creator of Unix&#039;s birthday"
+        },
+        {
+          "id": 2,
+          "answer": "Midnight, July 4, 1980"
+        }
+      ],
+      "id": 145
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the &quot;MP&quot; stand for in MP3?",
+      "correct_answer": "Moving Picture",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Music Player"
+        },
+        {
+          "id": 1,
+          "answer": "Multi Pass"
+        },
+        {
+          "id": 2,
+          "answer": "Micro Point"
+        }
+      ],
+      "id": 146
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+      "correct_answer": false,
+      "id": 147
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+      "correct_answer": false,
+      "id": 148
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Central Processing Unit"
+        },
+        {
+          "id": 1,
+          "answer": "Hard Disk Drive"
+        },
+        {
+          "id": 2,
+          "answer": "Random Access Memory"
+        }
+      ],
+      "id": 149
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:",
+      "correct_answer": "A&#039; + B&#039;",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "A&#039;B + B&#039;A"
+        },
+        {
+          "id": 1,
+          "answer": "A&#039;B&#039;"
+        },
+        {
+          "id": 2,
+          "answer": "AB&#039; + AB"
+        }
+      ],
+      "id": 150
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "&lt;scroll&gt;&lt;/scroll&gt;"
+        },
+        {
+          "id": 1,
+          "answer": "&lt;move&gt;&lt;/move&gt;"
+        },
+        {
+          "id": 2,
+          "answer": "&lt;slide&gt;&lt;/slide&gt;"
+        }
+      ],
+      "id": 151
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is known as &quot;the brain&quot; of the Computer?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Motherboard"
+        },
+        {
+          "id": 1,
+          "answer": "Graphics Processing Unit"
+        },
+        {
+          "id": 2,
+          "answer": "Keyboard"
+        }
+      ],
+      "id": 152
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.",
+      "correct_answer": true,
+      "id": 153
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+      "correct_answer": "FM-7",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "PC-9801"
+        },
+        {
+          "id": 1,
+          "answer": "Xmillennium "
+        },
+        {
+          "id": 2,
+          "answer": "MSX"
+        }
+      ],
+      "id": 154
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which RAID array type is associated with data mirroring?",
+      "correct_answer": "RAID 1",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "RAID 0"
+        },
+        {
+          "id": 1,
+          "answer": "RAID 10"
+        },
+        {
+          "id": 2,
+          "answer": "RAID 5"
+        }
+      ],
+      "id": 155
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which programming language shares its name with an island in Indonesia?",
+      "correct_answer": "Java",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Python"
+        },
+        {
+          "id": 1,
+          "answer": "C"
+        },
+        {
+          "id": 2,
+          "answer": "Jakarta"
+        }
+      ],
+      "id": 156
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+      "correct_answer": "Clipper Chip",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Enigma Machine"
+        },
+        {
+          "id": 1,
+          "answer": "Skipjack"
+        },
+        {
+          "id": 2,
+          "answer": "Nautilus"
+        }
+      ],
+      "id": 157
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+      "correct_answer": "center",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "static"
+        },
+        {
+          "id": 1,
+          "answer": "absolute"
+        },
+        {
+          "id": 2,
+          "answer": "relative"
+        }
+      ],
+      "id": 158
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "category": "Science: Gadgets",
+  "category_id": 20,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+      "correct_answer": "Courage",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Innovation"
+        },
+        {
+          "id": 1,
+          "answer": "Revolution"
+        },
+        {
+          "id": 2,
+          "answer": "Bravery"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+      "correct_answer": false,
+      "id": 1
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+      "correct_answer": "Nokia",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "LG Electronics"
+        },
+        {
+          "id": 1,
+          "answer": "Samsung"
+        },
+        {
+          "id": 2,
+          "answer": "HTC"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which round does a WW2 M1 Garand fire?",
+      "correct_answer": ".30-06",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": ".308"
+        },
+        {
+          "id": 1,
+          "answer": "7.62"
+        },
+        {
+          "id": 2,
+          "answer": "7.62x51mm"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+      "correct_answer": "Challenger and Columbia",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Enterprise and Atlantis"
+        },
+        {
+          "id": 1,
+          "answer": "Discovery and Endeavour"
+        },
+        {
+          "id": 2,
+          "answer": "None of the Above"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What round is a classic AK-47 chambered in?",
+      "correct_answer": "7.62x39mm",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "7.62x51mm"
+        },
+        {
+          "id": 1,
+          "answer": "5.56x45mm"
+        },
+        {
+          "id": 2,
+          "answer": "5.45x39mm"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the DVD invented?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2000"
+        },
+        {
+          "id": 1,
+          "answer": "1990"
+        },
+        {
+          "id": 2,
+          "answer": "1980"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The communication protocol NFC stands for Near-Field Control.",
+      "correct_answer": false,
+      "id": 7
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who built the first laser?",
+      "correct_answer": "Theodore Harold Maiman",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Nikola Tesla"
+        },
+        {
+          "id": 1,
+          "answer": "Jack Kilby"
+        },
+        {
+          "id": 2,
+          "answer": "Edith Clarke"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the iPhone released?",
+      "correct_answer": "2007",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2005"
+        },
+        {
+          "id": 1,
+          "answer": "2006"
+        },
+        {
+          "id": 2,
+          "answer": "2004"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+      "correct_answer": "A robot",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "A pickup truck"
+        },
+        {
+          "id": 1,
+          "answer": "An motorcycle"
+        },
+        {
+          "id": 2,
+          "answer": "A motorboat"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+      "correct_answer": "2012",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2010"
+        },
+        {
+          "id": 1,
+          "answer": "2011"
+        },
+        {
+          "id": 2,
+          "answer": "2013"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which company developed the Hololens?",
+      "correct_answer": "Microsoft",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "HTC"
+        },
+        {
+          "id": 1,
+          "answer": "Oculus"
+        },
+        {
+          "id": 2,
+          "answer": "Tobii"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The term &quot;battery&quot; to describe an electrical storage device was coined by?",
+      "correct_answer": "Benjamin Franklin",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Nikola Tesla"
+        },
+        {
+          "id": 1,
+          "answer": "Luigi Galvani"
+        },
+        {
+          "id": 2,
+          "answer": " Alessandro Volta"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
+      "correct_answer": true,
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mobile hardware and software company &quot;Blackberry Limited&quot; was founded in which country?",
+      "correct_answer": "Canada",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Norway"
+        },
+        {
+          "id": 1,
+          "answer": "United States of America"
+        },
+        {
+          "id": 2,
+          "answer": "United Kingdom"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+      "correct_answer": "Typewriters",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Blenders"
+        },
+        {
+          "id": 1,
+          "answer": "Ceiling Fans"
+        },
+        {
+          "id": 2,
+          "answer": "Door Knobs"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is used to measure blood pressure?",
+      "correct_answer": "Sphygmomanometer",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Barometer"
+        },
+        {
+          "id": 1,
+          "answer": "Ruler"
+        },
+        {
+          "id": 2,
+          "answer": "Haemoerythrometer"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+      "correct_answer": "Sony",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Panasonic"
+        },
+        {
+          "id": 1,
+          "answer": "LG"
+        },
+        {
+          "id": 2,
+          "answer": "Fujitsu"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is the standard THX subwoofer crossover frequency?",
+      "correct_answer": "80 Hz",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "70 Hz"
+        },
+        {
+          "id": 1,
+          "answer": "90 Hz"
+        },
+        {
+          "id": 2,
+          "answer": "100 Hz"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the Tamagotchi digital pet released?",
+      "correct_answer": "1996",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1989"
+        },
+        {
+          "id": 1,
+          "answer": "1992"
+        },
+        {
+          "id": 2,
+          "answer": "1990"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When did the CD begin to appear on the consumer market?",
+      "correct_answer": "1982",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1992"
+        },
+        {
+          "id": 1,
+          "answer": "1972"
+        },
+        {
+          "id": 2,
+          "answer": "1962"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the base station trackers used for the HTC Vive called?",
+      "correct_answer": "Lighthouse",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Motion"
+        },
+        {
+          "id": 1,
+          "answer": "Constellation "
+        },
+        {
+          "id": 2,
+          "answer": "Trackers"
+        }
+      ],
+      "id": 22
+    }
+  ]
+}

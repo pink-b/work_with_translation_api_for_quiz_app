@@ -1,0 +1,1854 @@
+{
+  "category": "Entertainment: Books",
+  "category_id": 4,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Sherlock Holmes&#039;s brother?",
+      "correct_answer": "Mycroft Holmes",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Mederi Holmes"
+        },
+        {
+          "id": 1,
+          "answer": "Martin Holmes"
+        },
+        {
+          "id": 2,
+          "answer": "Herbie Hancock Holmes"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the Mysterious Island, in Jules Verne&#039;s &quot;The Mysterious Island&quot;?",
+      "correct_answer": "Lincoln Island",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Vulcania Island"
+        },
+        {
+          "id": 1,
+          "answer": "Prometheus Island"
+        },
+        {
+          "id": 2,
+          "answer": "Neptune Island"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.",
+      "correct_answer": true,
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?",
+      "correct_answer": "Friedrich Engels",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Robert Owen"
+        },
+        {
+          "id": 1,
+          "answer": "Alexander Kerensky"
+        },
+        {
+          "id": 2,
+          "answer": "Paul Lafargue"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+      "correct_answer": "INGSOC",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Neo-Bolshevism"
+        },
+        {
+          "id": 1,
+          "answer": "Obliteration of the Self"
+        },
+        {
+          "id": 2,
+          "answer": "Earth Alliance"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Terry Pratchett&#039;s Discworld novel &#039;Wyrd Sisters&#039;, which of these are not one of the three main witches?",
+      "correct_answer": "Winny Hathersham",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Granny Weatherwax"
+        },
+        {
+          "id": 1,
+          "answer": "Nanny Ogg"
+        },
+        {
+          "id": 2,
+          "answer": "Magrat Garlick"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which famous book is sub-titled &#039;The Modern Prometheus&#039;?",
+      "correct_answer": "Frankenstein",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Dracula"
+        },
+        {
+          "id": 1,
+          "answer": "The Strange Case of Dr. Jekyll and Mr. Hyde "
+        },
+        {
+          "id": 2,
+          "answer": "The Legend of Sleepy Hollow"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What position does Harry Potter play in Quidditch?",
+      "correct_answer": "Seeker",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Beater"
+        },
+        {
+          "id": 1,
+          "answer": "Chaser"
+        },
+        {
+          "id": 2,
+          "answer": "Keeper"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+      "correct_answer": "Amy",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Beth"
+        },
+        {
+          "id": 1,
+          "answer": "Jo"
+        },
+        {
+          "id": 2,
+          "answer": "Meg"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+      "correct_answer": "Terisiare",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Aerona"
+        },
+        {
+          "id": 1,
+          "answer": "Shiv"
+        },
+        {
+          "id": 2,
+          "answer": "Jamuraa"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+      "correct_answer": "Badger",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Fox"
+        },
+        {
+          "id": 1,
+          "answer": "Frog"
+        },
+        {
+          "id": 2,
+          "answer": "Rabbit"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+      "correct_answer": "Hunter S. Thompson",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "F. Scott Fitzgerald"
+        },
+        {
+          "id": 1,
+          "answer": "Henry Miller"
+        },
+        {
+          "id": 2,
+          "answer": "William S. Burroughs"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+      "correct_answer": "The Dresden Files",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "A Hat in Time"
+        },
+        {
+          "id": 1,
+          "answer": "The Cinder Spires"
+        },
+        {
+          "id": 2,
+          "answer": "My Life as a Teenage Wizard"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?",
+      "correct_answer": "Camino Island",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Rogue Lawyer"
+        },
+        {
+          "id": 1,
+          "answer": "Gray Mountain"
+        },
+        {
+          "id": 2,
+          "answer": "The Litigators"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the town in which Lily and James Potter are buried?",
+      "correct_answer": "Godric&#039;s Hollow",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hogsmeade"
+        },
+        {
+          "id": 1,
+          "answer": "Ottery St. Catchpole"
+        },
+        {
+          "id": 2,
+          "answer": "Little Hangleton"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Abel Magwitch is a character from which Charles Dickens novel?",
+      "correct_answer": "Great Expectations",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Pickwick Papers"
+        },
+        {
+          "id": 1,
+          "answer": "Nicholas Nickleby"
+        },
+        {
+          "id": 2,
+          "answer": "Oliver Twist"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "5"
+        },
+        {
+          "id": 1,
+          "answer": "11"
+        },
+        {
+          "id": 2,
+          "answer": "13"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+      "correct_answer": "The Artful Dodger",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Fagin"
+        },
+        {
+          "id": 1,
+          "answer": "Bull&rsquo;s-eye"
+        },
+        {
+          "id": 2,
+          "answer": "Mr. Fang"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+      "correct_answer": "Hans Christian Andersen",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Charles Dickens"
+        },
+        {
+          "id": 1,
+          "answer": "Lewis Carroll"
+        },
+        {
+          "id": 2,
+          "answer": "Oscar Wilde"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+      "correct_answer": "Procompsognathus",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Dilophosaurus"
+        },
+        {
+          "id": 1,
+          "answer": "Tyrannosaurus Rex"
+        },
+        {
+          "id": 2,
+          "answer": "Velociraptor"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+      "correct_answer": "Dinah",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Oscar"
+        },
+        {
+          "id": 1,
+          "answer": "Heath"
+        },
+        {
+          "id": 2,
+          "answer": "Smokey"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is the world&#039;s best-selling book?",
+      "correct_answer": "The Lord of the Rings",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Little Prince"
+        },
+        {
+          "id": 1,
+          "answer": "Harry Potter and the Philosopher&#039;s Stone"
+        },
+        {
+          "id": 2,
+          "answer": "The Da Vinci Code"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+      "correct_answer": "Oswald",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "James"
+        },
+        {
+          "id": 1,
+          "answer": "Harold"
+        },
+        {
+          "id": 2,
+          "answer": "Christopher"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+      "correct_answer": " Osteogenesis Imperfecta",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Spinocerebellar ataxia"
+        },
+        {
+          "id": 1,
+          "answer": "Adrenoleukodystrophy"
+        },
+        {
+          "id": 2,
+          "answer": "Cystic Fibrosis"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+      "correct_answer": "Astoria Greengrass",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Pansy Parkinson"
+        },
+        {
+          "id": 1,
+          "answer": "Millicent Bulstrode"
+        },
+        {
+          "id": 2,
+          "answer": "Hermione Granger"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?",
+      "correct_answer": "Saphira",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Glaedr"
+        },
+        {
+          "id": 1,
+          "answer": "Thorn"
+        },
+        {
+          "id": 2,
+          "answer": "Arya"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?",
+      "correct_answer": "William Golding",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Stephen King"
+        },
+        {
+          "id": 1,
+          "answer": "F. Scott Fitzgerald"
+        },
+        {
+          "id": 2,
+          "answer": "Hunter Fox"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;",
+      "correct_answer": "Falcon",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Eagle"
+        },
+        {
+          "id": 1,
+          "answer": "Kyte"
+        },
+        {
+          "id": 2,
+          "answer": "Swallow"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+      "correct_answer": "Ira Levin",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Stephen King"
+        },
+        {
+          "id": 1,
+          "answer": "Robert Bloch"
+        },
+        {
+          "id": 2,
+          "answer": "Mary Shelley"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many Harry Potter books are there?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "8"
+        },
+        {
+          "id": 1,
+          "answer": "5"
+        },
+        {
+          "id": 2,
+          "answer": "6"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is NOT a book in the Harry Potter Series?",
+      "correct_answer": "The House Elf",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Chamber of Secrets"
+        },
+        {
+          "id": 1,
+          "answer": "The Prisoner of Azkaban"
+        },
+        {
+          "id": 2,
+          "answer": "The Deathly Hallows"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+      "correct_answer": "SCP-173",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "SCP-001"
+        },
+        {
+          "id": 1,
+          "answer": "SCP-999"
+        },
+        {
+          "id": 2,
+          "answer": "SCP-1459"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+      "correct_answer": "Answer a riddle",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Rhythmically tap barrels with a wand"
+        },
+        {
+          "id": 1,
+          "answer": "Speak a password"
+        },
+        {
+          "id": 2,
+          "answer": "Knock in sequence"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+      "correct_answer": "Gloin",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Thorin Oakenshield"
+        },
+        {
+          "id": 1,
+          "answer": "Bombur"
+        },
+        {
+          "id": 2,
+          "answer": "Dwalin"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+      "correct_answer": "The Grapes of Wrath",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hamlet"
+        },
+        {
+          "id": 1,
+          "answer": "The Great Gatsby"
+        },
+        {
+          "id": 2,
+          "answer": "Peter Pan"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote &quot;Harry Potter&quot;?",
+      "correct_answer": "J.K. Rowling",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "J.R.R. Tolkien"
+        },
+        {
+          "id": 1,
+          "answer": "Terry Pratchett"
+        },
+        {
+          "id": 2,
+          "answer": "Daniel Radcliffe"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The book 1984 was published in 1949.",
+      "correct_answer": true,
+      "id": 36
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Shub-Niggurath is a creature that was created by \tJ. R. R. Tolkien in his novel &quot;The Lord of The Rings&quot;.",
+      "correct_answer": false,
+      "id": 37
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+      "correct_answer": "A Study in Scarlet",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Sign of the Four"
+        },
+        {
+          "id": 1,
+          "answer": "A Case of Identity"
+        },
+        {
+          "id": 2,
+          "answer": "The Doings of Raffles Haw"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Russian author wrote the epic novel War and Peace?",
+      "correct_answer": "Leo Tolstoy",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Fyodor Dostoyevsky"
+        },
+        {
+          "id": 1,
+          "answer": "Alexander Pushkin"
+        },
+        {
+          "id": 2,
+          "answer": "Vladimir Nabokov"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+      "correct_answer": "Frankenstein&#039;s monster",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Dracula"
+        },
+        {
+          "id": 1,
+          "answer": "The Thing"
+        },
+        {
+          "id": 2,
+          "answer": "The Invisible Man"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the &quot;The Hobbit&quot;, who kills Smaug?",
+      "correct_answer": "Bard",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bilbo Baggins"
+        },
+        {
+          "id": 1,
+          "answer": "Gandalf the Grey"
+        },
+        {
+          "id": 2,
+          "answer": "Frodo"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+      "correct_answer": "John Steinbeck ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "George Orwell"
+        },
+        {
+          "id": 1,
+          "answer": "Mark Twain "
+        },
+        {
+          "id": 2,
+          "answer": "Harper Lee"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+      "correct_answer": "John Green",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Stephenie Meyer"
+        },
+        {
+          "id": 1,
+          "answer": "Suzanne Collins"
+        },
+        {
+          "id": 2,
+          "answer": "Stephen Chbosky"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+      "correct_answer": "The Prince and the Pauper",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hamlet"
+        },
+        {
+          "id": 1,
+          "answer": "Wealthy Boy and the Schmuck"
+        },
+        {
+          "id": 2,
+          "answer": "A Modern Twain Story"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Harry Potter series of books, combined, are over 1,000,000 words in length.",
+      "correct_answer": true,
+      "id": 45
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many books are in the Chronicles of Narnia series?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "6"
+        },
+        {
+          "id": 1,
+          "answer": "8"
+        },
+        {
+          "id": 2,
+          "answer": "5"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+      "correct_answer": "John Steinbeck",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "F. Scott Fitzgerald"
+        },
+        {
+          "id": 1,
+          "answer": "Ernest Hemingway"
+        },
+        {
+          "id": 2,
+          "answer": "William Faulkner"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Harry Potter was born on July 31st, 1980.",
+      "correct_answer": true,
+      "id": 48
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?",
+      "correct_answer": "June",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "August"
+        },
+        {
+          "id": 1,
+          "answer": "April"
+        },
+        {
+          "id": 2,
+          "answer": "May"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is Hermione Granger&#039;s middle name?",
+      "correct_answer": "Jean",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jane"
+        },
+        {
+          "id": 1,
+          "answer": "Emma"
+        },
+        {
+          "id": 2,
+          "answer": "Jo"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+      "correct_answer": true,
+      "id": 51
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which famous spy novelist wrote the childrens&#039; story &quot;Chitty-Chitty-Bang-Bang&quot;?",
+      "correct_answer": "Ian Fleming",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Joseph Conrad"
+        },
+        {
+          "id": 1,
+          "answer": "John Buchan"
+        },
+        {
+          "id": 2,
+          "answer": "Graham Greene"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+      "correct_answer": "1984",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Old Man and the Sea"
+        },
+        {
+          "id": 1,
+          "answer": "Catcher and the Rye"
+        },
+        {
+          "id": 2,
+          "answer": "To Kill a Mockingbird"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+      "correct_answer": "Richard Bachman",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "J. D. Robb"
+        },
+        {
+          "id": 1,
+          "answer": "Mark Twain"
+        },
+        {
+          "id": 2,
+          "answer": "Lewis Carroll"
+        }
+      ],
+      "id": 54
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following authors was not born in England? ",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Graham Greene"
+        },
+        {
+          "id": 1,
+          "answer": "H G Wells"
+        },
+        {
+          "id": 2,
+          "answer": "Arthur C Clarke"
+        }
+      ],
+      "id": 55
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the &quot;A Song of Ice And Fire&quot; fantasy novel series?",
+      "correct_answer": "George R. R. Martin",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "George Lucas"
+        },
+        {
+          "id": 1,
+          "answer": "George Orwell"
+        },
+        {
+          "id": 2,
+          "answer": "George Eliot"
+        }
+      ],
+      "id": 56
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?",
+      "correct_answer": "The Nautilus",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Neptune"
+        },
+        {
+          "id": 1,
+          "answer": "The Poseidon  "
+        },
+        {
+          "id": 2,
+          "answer": "The Atlantis"
+        }
+      ],
+      "id": 57
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+      "correct_answer": "Fluffy",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Spike"
+        },
+        {
+          "id": 1,
+          "answer": "Poofy"
+        },
+        {
+          "id": 2,
+          "answer": "Spot"
+        }
+      ],
+      "id": 58
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Fletcher Christian"
+        },
+        {
+          "id": 1,
+          "answer": "Jay Gatsby"
+        },
+        {
+          "id": 2,
+          "answer": "Randall Flagg"
+        }
+      ],
+      "id": 59
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+      "correct_answer": "My Struggle",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "My Hatred"
+        },
+        {
+          "id": 1,
+          "answer": "My Sadness"
+        },
+        {
+          "id": 2,
+          "answer": "My Desire"
+        }
+      ],
+      "id": 60
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these book series is by James Patterson?",
+      "correct_answer": "Maximum Ride",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Harry Potter"
+        },
+        {
+          "id": 1,
+          "answer": "The Legend of Xanth"
+        },
+        {
+          "id": 2,
+          "answer": "The Bartemaeus Trilogy"
+        }
+      ],
+      "id": 61
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the pen name of novelist, Mary Ann Evans?",
+      "correct_answer": "George Eliot",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "George Orwell"
+        },
+        {
+          "id": 1,
+          "answer": "George Bernard Shaw"
+        },
+        {
+          "id": 2,
+          "answer": "George Saunders"
+        }
+      ],
+      "id": 62
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By what name was the author Eric Blair better known?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Aldous Huxley"
+        },
+        {
+          "id": 1,
+          "answer": "Ernest Hemingway"
+        },
+        {
+          "id": 2,
+          "answer": "Ray Bradbury"
+        }
+      ],
+      "id": 63
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+      "correct_answer": "James Potter",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Joey Potter"
+        },
+        {
+          "id": 1,
+          "answer": "Frank Potter"
+        },
+        {
+          "id": 2,
+          "answer": "Hairy Potter Sr."
+        }
+      ],
+      "id": 64
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+      "correct_answer": "Ulgrotha",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bant"
+        },
+        {
+          "id": 1,
+          "answer": "Llanowar"
+        },
+        {
+          "id": 2,
+          "answer": "Tazeem"
+        }
+      ],
+      "id": 65
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+      "correct_answer": "Wessex",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Barsetshire"
+        },
+        {
+          "id": 1,
+          "answer": "Fulchester"
+        },
+        {
+          "id": 2,
+          "answer": "Ambridge"
+        }
+      ],
+      "id": 66
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is Ron Weasley&#039;s middle name?",
+      "correct_answer": "Bilius",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Arthur"
+        },
+        {
+          "id": 1,
+          "answer": "John"
+        },
+        {
+          "id": 2,
+          "answer": "Dominic"
+        }
+      ],
+      "id": 67
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the last message of the Dolphins in &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot;?",
+      "correct_answer": "&quot;So long, and thanks for all the fish.&quot;",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "&quot;The answer is 42.&quot;"
+        },
+        {
+          "id": 1,
+          "answer": "&quot;Land of the brave.&quot;"
+        },
+        {
+          "id": 2,
+          "answer": "&quot;Goodbye cruel world!&quot;"
+        }
+      ],
+      "id": 68
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+      "correct_answer": "The Greasers",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Outsiders"
+        },
+        {
+          "id": 1,
+          "answer": "The Mafia"
+        },
+        {
+          "id": 2,
+          "answer": "The Socs"
+        }
+      ],
+      "id": 69
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Green Eggs And Ham&quot; is a book by which author?",
+      "correct_answer": "Dr. Seuss",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Beatrix Potter"
+        },
+        {
+          "id": 1,
+          "answer": "Roald Dahl"
+        },
+        {
+          "id": 2,
+          "answer": "A.A. Milne"
+        }
+      ],
+      "id": 70
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
+      "correct_answer": true,
+      "id": 71
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+      "correct_answer": "Steven Erikson",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ian Cameron Esslemont"
+        },
+        {
+          "id": 1,
+          "answer": "George R. R. Martin"
+        },
+        {
+          "id": 2,
+          "answer": "J. R. R. Tolkien"
+        }
+      ],
+      "id": 72
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote &quot;A Tale of Two Cities&quot;?",
+      "correct_answer": "Charles Dickens",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Charles Darwin"
+        },
+        {
+          "id": 1,
+          "answer": "Mark Twain"
+        },
+        {
+          "id": 2,
+          "answer": "Roald Dahl"
+        }
+      ],
+      "id": 73
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+      "correct_answer": "Herman Melville",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "William Golding"
+        },
+        {
+          "id": 1,
+          "answer": "William Shakespeare"
+        },
+        {
+          "id": 2,
+          "answer": "J. R. R. Tolkien"
+        }
+      ],
+      "id": 74
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?",
+      "correct_answer": "1989 Toyota Land Cruiser",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1989 Jeep Wrangler YJ Sahar"
+        },
+        {
+          "id": 1,
+          "answer": "1989 Ford Explorer XLT"
+        },
+        {
+          "id": 2,
+          "answer": "Mercedes M-Class"
+        }
+      ],
+      "id": 75
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+      "correct_answer": "549 Days",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "765 Days"
+        },
+        {
+          "id": 1,
+          "answer": "401 Days"
+        },
+        {
+          "id": 2,
+          "answer": "324 Days"
+        }
+      ],
+      "id": 76
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+      "correct_answer": "Ray Bradbury",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "R. L. Stine"
+        },
+        {
+          "id": 1,
+          "answer": "Wolfgang Amadeus Mozart"
+        },
+        {
+          "id": 2,
+          "answer": "Stephen King"
+        }
+      ],
+      "id": 77
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+      "correct_answer": "A Clash of Kings",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "A Dance with Dragons"
+        },
+        {
+          "id": 1,
+          "answer": "A Storm of Swords"
+        },
+        {
+          "id": 2,
+          "answer": "A Feast for Crows"
+        }
+      ],
+      "id": 78
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+      "correct_answer": "The Balmoral",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Dunstane Hotel"
+        },
+        {
+          "id": 1,
+          "answer": "Hotel Novotel"
+        },
+        {
+          "id": 2,
+          "answer": "Sheraton Grand Hotel &amp; Spa"
+        }
+      ],
+      "id": 79
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+      "correct_answer": "Charlotte Bront&euml;",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Emily Bront&euml;"
+        },
+        {
+          "id": 1,
+          "answer": "Jane Austen"
+        },
+        {
+          "id": 2,
+          "answer": "Louisa May Alcott"
+        }
+      ],
+      "id": 80
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The book &quot;The Little Prince&quot; was written by...",
+      "correct_answer": "Antoine de Saint-Exup&eacute;ry",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Miguel de Cervantes Saavedra"
+        },
+        {
+          "id": 1,
+          "answer": "Jane Austen"
+        },
+        {
+          "id": 2,
+          "answer": "F. Scott Fitzgerald"
+        }
+      ],
+      "id": 81
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In which classic novel is there a character named Homer Simpson?",
+      "correct_answer": "The Day of the Locust",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Catch-22"
+        },
+        {
+          "id": 1,
+          "answer": "Of Mice and Men"
+        },
+        {
+          "id": 2,
+          "answer": "A Separate Peace"
+        }
+      ],
+      "id": 82
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+      "correct_answer": "Anna Karenina",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Notes from the Underground"
+        },
+        {
+          "id": 1,
+          "answer": "Crime and Punishment"
+        },
+        {
+          "id": 2,
+          "answer": "The Brothers Karamazov"
+        }
+      ],
+      "id": 83
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+      "correct_answer": "Joe Sugg",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Zoe Sugg"
+        },
+        {
+          "id": 1,
+          "answer": "Joe Weller"
+        },
+        {
+          "id": 2,
+          "answer": "Alfie Deyes"
+        }
+      ],
+      "id": 84
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+      "correct_answer": "Sarpadia",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Otaria"
+        },
+        {
+          "id": 1,
+          "answer": "Terisiare"
+        },
+        {
+          "id": 2,
+          "answer": "Shiv"
+        }
+      ],
+      "id": 85
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+      "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Albus Valum Jetta Mobius Dumbledore"
+        },
+        {
+          "id": 1,
+          "answer": "Albus James Lunae Otto Dumbledore"
+        },
+        {
+          "id": 2,
+          "answer": "Albus Valencium Horatio Kul Dumbledore"
+        }
+      ],
+      "id": 86
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The &quot;Berenstein Bears&quot; is the correct spelling of the educational children&#039;s book series&#039; name.",
+      "correct_answer": false,
+      "id": 87
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a work done by Shakespeare?",
+      "correct_answer": "Trial of Temperance",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Measure For Measure"
+        },
+        {
+          "id": 1,
+          "answer": "Titus Andronicus"
+        },
+        {
+          "id": 2,
+          "answer": "Cymbeline"
+        }
+      ],
+      "id": 88
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;Green Eggs and Ham&quot; consists of only 50 different words.",
+      "correct_answer": true,
+      "id": 89
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which author and poet famously wrote the line, &quot;The female of the species is more deadly than the male&quot;?",
+      "correct_answer": "Rudyard Kipling",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Edgar Allan Poe"
+        },
+        {
+          "id": 1,
+          "answer": "William Shakespeare"
+        },
+        {
+          "id": 2,
+          "answer": "William Wordsworth"
+        }
+      ],
+      "id": 90
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+      "correct_answer": "42",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Loving everyone around you"
+        },
+        {
+          "id": 1,
+          "answer": "Chocolate"
+        },
+        {
+          "id": 2,
+          "answer": "Death"
+        }
+      ],
+      "id": 91
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the fourth book of the Old Testament?",
+      "correct_answer": "Numbers",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Genesis"
+        },
+        {
+          "id": 1,
+          "answer": "Exodus"
+        },
+        {
+          "id": 2,
+          "answer": "Leviticus"
+        }
+      ],
+      "id": 92
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+      "correct_answer": "The main character&#039;s trauma in childhood",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The relation it has with killing the innocents"
+        },
+        {
+          "id": 1,
+          "answer": "The villain&#039;s favourite meal"
+        },
+        {
+          "id": 2,
+          "answer": "The voice of innocent people being shut by the powerful"
+        }
+      ],
+      "id": 93
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "category": "Vehicles",
+  "category_id": 23,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Какая из этих компаний не производит мотоциклов? ",
+      "correct_answer": "Toyota. ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Honda "
+        },
+        {
+          "id": 1,
+          "answer": "Кавасаки "
+        },
+        {
+          "id": 2,
+          "answer": "Ямаха "
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Какие 4 кольца в Audi & # 039; S logo представляют собой? ",
+      "correct_answer": "Ранее независимые производители автомобилей ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Штаты, в которых Audi делает самые продажи "
+        },
+        {
+          "id": 1,
+          "answer": "Главные города жизненно важные для Audi "
+        },
+        {
+          "id": 2,
+          "answer": "Страны, в которых Audi делает самые продажи "
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В какой стране находится суперкар Hussarya, сделанный производителем автомобиля & quot; arrinera \", собранный? ",
+      "correct_answer": "Польша ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Китай "
+        },
+        {
+          "id": 1,
+          "answer": "Швеция "
+        },
+        {
+          "id": 2,
+          "answer": "Италия "
+        }
+      ],
+      "id": 2
+    }
+     ]
+}

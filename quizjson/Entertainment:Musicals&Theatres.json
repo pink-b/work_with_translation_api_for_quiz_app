@@ -1,0 +1,629 @@
+{
+  "category": "Entertainment: Musicals & Theatres",
+  "category_id": 10,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who played &quot;Charlie Price&quot; in the musical &quot;Kinky Boots&quot; on Broadway in New York from May 26th - Aug 6th 2017?",
+      "correct_answer": "Brendon Urie",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ed Sheeren"
+        },
+        {
+          "id": 1,
+          "answer": "Tom Cruise"
+        },
+        {
+          "id": 2,
+          "answer": "Dallon Weekes"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these plays was famously first performed posthumously after the playwright committed suicide?",
+      "correct_answer": "4.48 Psychosis",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hamilton"
+        },
+        {
+          "id": 1,
+          "answer": "Much Ado About Nothing"
+        },
+        {
+          "id": 2,
+          "answer": "The Birthday Party"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of Broadway&#039;s first &quot;long-run&quot; musical?",
+      "correct_answer": "The Elves",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Wicked"
+        },
+        {
+          "id": 1,
+          "answer": "Hamilton"
+        },
+        {
+          "id": 2,
+          "answer": "The Book of Mormon"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not a piece from the 1950&#039;s musical West Side Story?",
+      "correct_answer": "The Back Alley",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Maria"
+        },
+        {
+          "id": 1,
+          "answer": "Tonight"
+        },
+        {
+          "id": 2,
+          "answer": "Mambo"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The World Chess Championship in Chess, Act 1 is set in which Italian city?",
+      "correct_answer": "Merano",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Venice"
+        },
+        {
+          "id": 1,
+          "answer": "Milan"
+        },
+        {
+          "id": 2,
+          "answer": "Rome"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Andrew Lloyd Webber musical &quot;Cats&quot; is based off a book of poems written by which author?",
+      "correct_answer": "T.S. Elliot",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Andrew Lloyd Webber"
+        },
+        {
+          "id": 1,
+          "answer": "Emily Dickenson"
+        },
+        {
+          "id": 2,
+          "answer": "Robert Frost"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Shakespeare&#039;s play Julius Caesar, Caesar&#039;s last words were...",
+      "correct_answer": "Et tu, Brute? ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Iacta alea est!"
+        },
+        {
+          "id": 1,
+          "answer": "Vidi, vini, vici."
+        },
+        {
+          "id": 2,
+          "answer": "Aegri somnia vana."
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which Shakespeare play does the character Marcellus say, &quot;Something is rotten in the state of Denmark&quot;?",
+      "correct_answer": "Hamlet",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Macbeth"
+        },
+        {
+          "id": 1,
+          "answer": "King Lear"
+        },
+        {
+          "id": 2,
+          "answer": "Twelfth Night"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.",
+      "correct_answer": true,
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was George Bizet&#039;s last opera?",
+      "correct_answer": "Carmen",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Don Rodrigue"
+        },
+        {
+          "id": 1,
+          "answer": "Gris&eacute;lidis"
+        },
+        {
+          "id": 2,
+          "answer": "Les p&ecirc;cheurs de perles"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "After England, more Shakespeare plays are set in this present day country than in any other.",
+      "correct_answer": "Italy",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "United States"
+        },
+        {
+          "id": 1,
+          "answer": "Greece"
+        },
+        {
+          "id": 2,
+          "answer": "France"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Shakespeare play features the stage direction &quot;Enter a messenger, with two heads and a hand&quot;?",
+      "correct_answer": "Titus Andronicus",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Othello"
+        },
+        {
+          "id": 1,
+          "answer": "Macbeth"
+        },
+        {
+          "id": 2,
+          "answer": "King Lear"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many plays is Shakespeare generally considered to have written?",
+      "correct_answer": "37",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "18"
+        },
+        {
+          "id": 1,
+          "answer": "54"
+        },
+        {
+          "id": 2,
+          "answer": "25"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the play Oedipus Rex, Oedipus kills his father due to jealousy in loving his mother.",
+      "correct_answer": false,
+      "id": 13
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What play is the quote &quot;Hell is other people&quot; from?",
+      "correct_answer": "No Exit",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Devil and the Good Lord"
+        },
+        {
+          "id": 1,
+          "answer": "The Condemned of Altona"
+        },
+        {
+          "id": 2,
+          "answer": "The Flies"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the play &quot;Macbeth&quot; written?",
+      "correct_answer": "1606",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1605"
+        },
+        {
+          "id": 1,
+          "answer": "1723"
+        },
+        {
+          "id": 2,
+          "answer": "1628"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Shakespeare play inspired the musical &#039;West Side Story&#039;?",
+      "correct_answer": "Romeo &amp; Juliet",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Hamlet"
+        },
+        {
+          "id": 1,
+          "answer": "Macbeth"
+        },
+        {
+          "id": 2,
+          "answer": "Othello"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Jeff Wayne&#039;s Musical Version of War of the Worlds, the chances of anything coming from Mars are...",
+      "correct_answer": "A million to one",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "A billion to one"
+        },
+        {
+          "id": 1,
+          "answer": "A trillion to one"
+        },
+        {
+          "id": 2,
+          "answer": "A hundred to one"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the musical director for the award winning musical &quot;Hamilton&quot;?",
+      "correct_answer": "Alex Lacamoire",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Lin-Manuel Miranda"
+        },
+        {
+          "id": 1,
+          "answer": "Renee Elise-Goldberry"
+        },
+        {
+          "id": 2,
+          "answer": "Leslie Odom Jr."
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which Shakespearean play will you find the suicide of Ophelia?",
+      "correct_answer": "Hamlet",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Macbeth"
+        },
+        {
+          "id": 1,
+          "answer": "Othello"
+        },
+        {
+          "id": 2,
+          "answer": "King Lear"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who wrote the lyrics for Leonard Bernstein&#039;s 1957 Brodway musical West Side Story?",
+      "correct_answer": "Stephen Sondheim",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Himself"
+        },
+        {
+          "id": 1,
+          "answer": "Oscar Hammerstein"
+        },
+        {
+          "id": 2,
+          "answer": "Richard Rodgers"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?",
+      "correct_answer": "Hamlet",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Tempest"
+        },
+        {
+          "id": 1,
+          "answer": "Othello"
+        },
+        {
+          "id": 2,
+          "answer": "The Taming of the Shrew"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who serves as the speaker of the prologue in Shakespeare&#039;s Romeo and Juliet?",
+      "correct_answer": "Chorus",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Montague"
+        },
+        {
+          "id": 1,
+          "answer": "Refrain"
+        },
+        {
+          "id": 2,
+          "answer": "Capulet"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these musicals won the Tony Award for Best Musical?",
+      "correct_answer": "Rent",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Color Purple"
+        },
+        {
+          "id": 1,
+          "answer": "American Idiot"
+        },
+        {
+          "id": 2,
+          "answer": "Newsies"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the award winning musical &quot;In The Heights&quot;?",
+      "correct_answer": "Lin-Manuel Miranda",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Steven Sondheim"
+        },
+        {
+          "id": 1,
+          "answer": "Francis Scott Key"
+        },
+        {
+          "id": 2,
+          "answer": "John Phillips Sousa"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Jean ValJean&#039;s first prisoner number?",
+      "correct_answer": "24601",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "9430"
+        },
+        {
+          "id": 1,
+          "answer": "1729"
+        },
+        {
+          "id": 2,
+          "answer": "32769"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The musical &quot;Dirty Rotten Scoundrels&quot; is set in what country?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "USA"
+        },
+        {
+          "id": 1,
+          "answer": "Germany"
+        },
+        {
+          "id": 2,
+          "answer": "Sweden"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Les Mis&eacute;rables, who is Prison Code 24601?",
+      "correct_answer": "Jean Valjean",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Marius Pontmercy"
+        },
+        {
+          "id": 1,
+          "answer": "Javert"
+        },
+        {
+          "id": 2,
+          "answer": "Jean Claude Van Damme"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the play &#039;Angels in America&#039;?",
+      "correct_answer": "Tony Kusher",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Tom Stoppard"
+        },
+        {
+          "id": 1,
+          "answer": "Matthew Lopez"
+        },
+        {
+          "id": 2,
+          "answer": "Anthony Neilson"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Macbeth, the eyes of what animals were used in the Witches&#039; cauldron?",
+      "correct_answer": "Newts",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Humans"
+        },
+        {
+          "id": 1,
+          "answer": "Sharks"
+        },
+        {
+          "id": 2,
+          "answer": "Squids"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+      "correct_answer": "Daveed Diggs",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Lin-Manuel Miranda"
+        },
+        {
+          "id": 1,
+          "answer": "Javier Mu&ntilde;oz"
+        },
+        {
+          "id": 2,
+          "answer": "Wayne Brady"
+        }
+      ],
+      "id": 30
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "category": "Science: Mathematics",
+  "category_id": 21,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?",
+      "correct_answer": "Folium of Descartes",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Elliptic Paraboloid of Descartes"
+        },
+        {
+          "id": 1,
+          "answer": "Cartesian Coordinates"
+        },
+        {
+          "id": 2,
+          "answer": "Descarte&#039;s Helicoid"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many zeptometres are inside one femtometre?",
+      "correct_answer": "1,000,000",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "10"
+        },
+        {
+          "id": 1,
+          "answer": "1,000,000,000"
+        },
+        {
+          "id": 2,
+          "answer": "1000"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "E = MC3",
+      "correct_answer": false,
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the symbol for Displacement?",
+      "correct_answer": "&Delta;r",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "dr"
+        },
+        {
+          "id": 1,
+          "answer": "Dp"
+        },
+        {
+          "id": 2,
+          "answer": "r"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "A &#039;Millinillion&#039; is a real number.",
+      "correct_answer": true,
+      "id": 4
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "An equilateral triangle always has every angle measuring 60&deg;.",
+      "correct_answer": true,
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Roman numeral for 500?",
+      "correct_answer": "D",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "L"
+        },
+        {
+          "id": 1,
+          "answer": "C"
+        },
+        {
+          "id": 2,
+          "answer": "X"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
+      "correct_answer": false,
+      "id": 7
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the alphanumeric representation of the imaginary number?",
+      "correct_answer": "i",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "e"
+        },
+        {
+          "id": 1,
+          "answer": "n"
+        },
+        {
+          "id": 2,
+          "answer": "x"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The set of all algebraic numbers is countable.",
+      "correct_answer": true,
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many sides does a trapezium have?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "3"
+        },
+        {
+          "id": 1,
+          "answer": "5"
+        },
+        {
+          "id": 2,
+          "answer": "6"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the hexadecimal system, what number comes after 9?",
+      "correct_answer": "The Letter A",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "10"
+        },
+        {
+          "id": 1,
+          "answer": "The Number 0"
+        },
+        {
+          "id": 2,
+          "answer": "16"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "correct_answer": true,
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?",
+      "correct_answer": "1729",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "91"
+        },
+        {
+          "id": 1,
+          "answer": "561"
+        },
+        {
+          "id": 2,
+          "answer": "4104"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In Topology, the complement of an open set is a closed set.",
+      "correct_answer": true,
+      "id": 14
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The sum of any two odd integers is odd.",
+      "correct_answer": false,
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What Greek letter is used to signify summation?",
+      "correct_answer": "Sigma",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Delta"
+        },
+        {
+          "id": 1,
+          "answer": "Alpha"
+        },
+        {
+          "id": 2,
+          "answer": "Omega"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The decimal number 31 in hexadecimal would be what?",
+      "correct_answer": "1F",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "3D"
+        },
+        {
+          "id": 1,
+          "answer": "2E"
+        },
+        {
+          "id": 2,
+          "answer": "1B"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The French mathematician &Eacute;variste Galois is primarily known for his work in which?",
+      "correct_answer": "Galois Theory",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Galois&#039; Continued Fractions"
+        },
+        {
+          "id": 1,
+          "answer": "Galois&#039; Method for PDE&#039;s "
+        },
+        {
+          "id": 2,
+          "answer": "Abelian Integration"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the fourth digit of &pi;?",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2"
+        },
+        {
+          "id": 1,
+          "answer": "3"
+        },
+        {
+          "id": 2,
+          "answer": "4"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The notion of a &quot;set that contains all sets which do not contain themselves&quot; is a paradoxical idea attributed to which English philospher?",
+      "correct_answer": "Bertrand Russel",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Francis Bacon"
+        },
+        {
+          "id": 1,
+          "answer": "John Locke"
+        },
+        {
+          "id": 2,
+          "answer": "Alfred North Whitehead"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A universal set, or a set that contains all sets, exists.",
+      "correct_answer": false,
+      "id": 21
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?",
+      "correct_answer": "1.58 x 10^20",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1.58 x 10^22"
+        },
+        {
+          "id": 1,
+          "answer": "1.58 x  10^18"
+        },
+        {
+          "id": 2,
+          "answer": "1.58 x 10^24"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s the square root of 49?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "4"
+        },
+        {
+          "id": 1,
+          "answer": "12"
+        },
+        {
+          "id": 2,
+          "answer": "9"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",
+      "correct_answer": true,
+      "id": 24
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following famous mathematicians died in a duel at the age of 20?",
+      "correct_answer": "Galois",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Abel"
+        },
+        {
+          "id": 1,
+          "answer": "Euler"
+        },
+        {
+          "id": 2,
+          "answer": "Gauss"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "An isosceles triangle has two sides of equal length as opposed to three.",
+      "correct_answer": true,
+      "id": 26
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the approximate value of mathematical constant e?",
+      "correct_answer": "2.72",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "3.14"
+        },
+        {
+          "id": 1,
+          "answer": "1.62"
+        },
+        {
+          "id": 2,
+          "answer": "1.41"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many books are in Euclid&#039;s Elements of Geometry?",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "8"
+        },
+        {
+          "id": 1,
+          "answer": "10"
+        },
+        {
+          "id": 2,
+          "answer": "17"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the derivative of Acceleration with respect to time?",
+      "correct_answer": "Jerk",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Shift"
+        },
+        {
+          "id": 1,
+          "answer": "Bump"
+        },
+        {
+          "id": 2,
+          "answer": "Slide"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the first Mersenne prime exponent over 1000?",
+      "correct_answer": "1279",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2203"
+        },
+        {
+          "id": 1,
+          "answer": "1009"
+        },
+        {
+          "id": 2,
+          "answer": "1069"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+      "correct_answer": false,
+      "id": 31
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+      "correct_answer": false,
+      "id": 32
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which greek mathematician ran through the streets of Syracuse naked while shouting &quot;Eureka&quot; after discovering the principle of displacement?",
+      "correct_answer": "Archimedes",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Euclid"
+        },
+        {
+          "id": 1,
+          "answer": "Homer"
+        },
+        {
+          "id": 2,
+          "answer": "Eratosthenes"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many sides does a heptagon have?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "8"
+        },
+        {
+          "id": 1,
+          "answer": "6"
+        },
+        {
+          "id": 2,
+          "answer": "5"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which mathematician refused the Fields Medal?",
+      "correct_answer": "Grigori Perelman",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Andrew Wiles"
+        },
+        {
+          "id": 1,
+          "answer": "Terence Tao"
+        },
+        {
+          "id": 2,
+          "answer": "Edward Witten"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?",
+      "correct_answer": "314.15 Inches",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "380.1215 Inches"
+        },
+        {
+          "id": 1,
+          "answer": "3141.5 Inches"
+        },
+        {
+          "id": 2,
+          "answer": "1256.6 Inches"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What prime number comes next after 19?",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "25"
+        },
+        {
+          "id": 1,
+          "answer": "21"
+        },
+        {
+          "id": 2,
+          "answer": "27"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Zero factorial is equal to zero. ",
+      "correct_answer": false,
+      "id": 38
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the correct order of operations for solving equations?",
+      "correct_answer": "Parentheses, Exponents, Multiplication, Division, Addition, Subtraction",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Addition, Multiplication, Division, Subtraction, Addition, Parentheses"
+        },
+        {
+          "id": 1,
+          "answer": "Parentheses, Exponents, Addition, Substraction, Multiplication, Division"
+        },
+        {
+          "id": 2,
+          "answer": "The order in which the operations are written."
+        }
+      ],
+      "id": 39
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.",
+      "correct_answer": false,
+      "id": 40
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "A scalene triangle has two sides of equal length.",
+      "correct_answer": false,
+      "id": 41
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many zeros are there in a googol?",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "10"
+        },
+        {
+          "id": 1,
+          "answer": "1,000"
+        },
+        {
+          "id": 2,
+          "answer": "1,000,000"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following mathematicians made major contributions to game theory?",
+      "correct_answer": "John Von Neumann",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Carl Friedrich Gauss"
+        },
+        {
+          "id": 1,
+          "answer": "Leonhard Euler"
+        },
+        {
+          "id": 2,
+          "answer": "Stefan Banach"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following dice is not a platonic solid?",
+      "correct_answer": "10-sided die",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "12-sided die"
+        },
+        {
+          "id": 1,
+          "answer": "20-sided die"
+        },
+        {
+          "id": 2,
+          "answer": "8-sided die"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.",
+      "correct_answer": true,
+      "id": 45
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+      "correct_answer": true,
+      "id": 46
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "To the nearest whole number, how many radians are in a whole circle?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "3"
+        },
+        {
+          "id": 1,
+          "answer": "4"
+        },
+        {
+          "id": 2,
+          "answer": "5"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the first 6 digits of the number &quot;Pi&quot;?",
+      "correct_answer": "3.14159",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "3.14169"
+        },
+        {
+          "id": 1,
+          "answer": "3.12423"
+        },
+        {
+          "id": 2,
+          "answer": "3.25812"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Roman Numerals, what does XL equate to?",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "60"
+        },
+        {
+          "id": 1,
+          "answer": "15"
+        },
+        {
+          "id": 2,
+          "answer": "90"
+        }
+      ],
+      "id": 49
+    }
+  ]
+}

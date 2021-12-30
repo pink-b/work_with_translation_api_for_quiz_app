@@ -1,0 +1,1105 @@
+{
+  "category": "Entertainment: Comics",
+  "category_id": 6,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+      "correct_answer": "Mega Man",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Super Mario Brothers"
+        },
+        {
+          "id": 1,
+          "answer": "Alex Kidd"
+        },
+        {
+          "id": 2,
+          "answer": "Super Monkey Ball"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What are the names of the two &quot;Canon fan trolls&quot; in &quot;Homestuck&quot;?",
+      "correct_answer": "Mierfa Durgas and Nektan Whelan",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Wrycrown and Voksea Olkido"
+        },
+        {
+          "id": 1,
+          "answer": "Aikter Frekik and Xagrai Ollomu"
+        },
+        {
+          "id": 2,
+          "answer": "Grekei Ceknux and Riya Camacho"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Deadpool&#039;s identity is Slade Wilson.",
+      "correct_answer": false,
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When was the Garfield comic first published?",
+      "correct_answer": "1978",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1982"
+        },
+        {
+          "id": 1,
+          "answer": "1973"
+        },
+        {
+          "id": 2,
+          "answer": "1988"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Homestuck character Gamzee&#039;s last name?",
+      "correct_answer": "Makara",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Makera"
+        },
+        {
+          "id": 1,
+          "answer": "Makare"
+        },
+        {
+          "id": 2,
+          "answer": "Makrea"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+      "correct_answer": "Antimony",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bismuth"
+        },
+        {
+          "id": 1,
+          "answer": "Mercury"
+        },
+        {
+          "id": 2,
+          "answer": "Cobalt"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the designation given to the Marvel Cinematic Universe?",
+      "correct_answer": "Earth-199999",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Earth-616"
+        },
+        {
+          "id": 1,
+          "answer": "Earth-10005"
+        },
+        {
+          "id": 2,
+          "answer": "Earth-2008"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is Batman?",
+      "correct_answer": "Bruce Wayne",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Clark Kent"
+        },
+        {
+          "id": 1,
+          "answer": "Barry Allen"
+        },
+        {
+          "id": 2,
+          "answer": "Tony Stark"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What are the Three Virtues of Bionicle?",
+      "correct_answer": "Unity, Duty, Destiny",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Build, Play, Change"
+        },
+        {
+          "id": 1,
+          "answer": "Work, Play, Live"
+        },
+        {
+          "id": 2,
+          "answer": "Forge, Build, Fight"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?",
+      "correct_answer": "Charlie",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Dave"
+        },
+        {
+          "id": 1,
+          "answer": "Charles"
+        },
+        {
+          "id": 2,
+          "answer": "Nathaniel"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This Marvel superhero is often called &quot;The man without fear&quot;.",
+      "correct_answer": "Daredevil",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Thor"
+        },
+        {
+          "id": 1,
+          "answer": "Wolverine"
+        },
+        {
+          "id": 2,
+          "answer": "Hulk"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+      "correct_answer": "Green Arrow",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Superman"
+        },
+        {
+          "id": 1,
+          "answer": "Batman"
+        },
+        {
+          "id": 2,
+          "answer": "Steve Trevor"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who authored The Adventures of Tintin?",
+      "correct_answer": "Herg&eacute;",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "E.P. Jacobs"
+        },
+        {
+          "id": 1,
+          "answer": "Rin Tin Tin"
+        },
+        {
+          "id": 2,
+          "answer": "Chic Young"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The main six year old protagonist in Calvin and Hobbes is named after what theologian?",
+      "correct_answer": "John Calvin",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Calvin Klein"
+        },
+        {
+          "id": 1,
+          "answer": "Calvin Coolidge"
+        },
+        {
+          "id": 2,
+          "answer": "Phillip Calvin McGraw"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following rings from the DC Comics&#039; &quot;Lantern Corps&quot; are classified as Parasitic?",
+      "correct_answer": "Indigo (Compassion)",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Green (Willpower)"
+        },
+        {
+          "id": 1,
+          "answer": "White (Life)"
+        },
+        {
+          "id": 2,
+          "answer": "Yellow (Fear)"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+      "correct_answer": "Professor Charles the Hedgehog",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Julian Robotnik"
+        },
+        {
+          "id": 1,
+          "answer": "Ivo Robotnik"
+        },
+        {
+          "id": 2,
+          "answer": "Snively Robotnik"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+      "correct_answer": "Auguste Picard",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jacques Piccard"
+        },
+        {
+          "id": 1,
+          "answer": "Will Morris"
+        },
+        {
+          "id": 2,
+          "answer": "J. Cecil Maby"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the first San Diego Comic-Con?",
+      "correct_answer": "1970",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2000"
+        },
+        {
+          "id": 1,
+          "answer": "1990"
+        },
+        {
+          "id": 2,
+          "answer": "1985"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+      "correct_answer": "Derse",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Skaia"
+        },
+        {
+          "id": 1,
+          "answer": "Prospit"
+        },
+        {
+          "id": 2,
+          "answer": "The Medium"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+      "correct_answer": "Blonde",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Auburn"
+        },
+        {
+          "id": 1,
+          "answer": "Brown"
+        },
+        {
+          "id": 2,
+          "answer": "Black"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Calvin and Hobbes, what is the name of Susie&#039;s stuffed rabbit?",
+      "correct_answer": "Mr. Bun",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Mr. Bunbun"
+        },
+        {
+          "id": 1,
+          "answer": "Mr. Rabbit"
+        },
+        {
+          "id": 2,
+          "answer": "Mr. Hoppy"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+      "correct_answer": "Daniel Dreiberg",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Nelson Gardner"
+        },
+        {
+          "id": 1,
+          "answer": "Hollis Mason"
+        },
+        {
+          "id": 2,
+          "answer": "Adrian Veidt"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the comic book &quot;Archie&quot;, Betty is friends with Veronica because she is rich.",
+      "correct_answer": false,
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+      "correct_answer": "Sonic the Hedgehog #11",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Sonic Universe #32"
+        },
+        {
+          "id": 1,
+          "answer": "Sonic the Hedgehog #161"
+        },
+        {
+          "id": 2,
+          "answer": "Sonic the Hedgehog #47"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was Marvel Comics founded?",
+      "correct_answer": "1939",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1932"
+        },
+        {
+          "id": 1,
+          "answer": "1951"
+        },
+        {
+          "id": 2,
+          "answer": "1936"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the webcomic &quot;Ava&#039;s Demon&quot;, what sin is &quot;Nevy Nervine&quot; based off of? ",
+      "correct_answer": "Envy ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Sloth"
+        },
+        {
+          "id": 1,
+          "answer": "Wrath "
+        },
+        {
+          "id": 2,
+          "answer": "Lust"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the creator of the comic series &quot;The Walking Dead&quot;?",
+      "correct_answer": "Robert Kirkman",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Stan Lee"
+        },
+        {
+          "id": 1,
+          "answer": "Malcolm Wheeler-Nicholson"
+        },
+        {
+          "id": 2,
+          "answer": "Robert Crumb"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+      "correct_answer": "Calvin and Hobbes",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Winnie the Pooh"
+        },
+        {
+          "id": 1,
+          "answer": "Albert and Pogo"
+        },
+        {
+          "id": 2,
+          "answer": "Peanuts"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the Batman comic series &quot;The Killing Joke&quot;?",
+      "correct_answer": "Alan Moore",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bill Finger"
+        },
+        {
+          "id": 1,
+          "answer": "Frank Miller"
+        },
+        {
+          "id": 2,
+          "answer": "Jerry Siegel"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the first Robin in the Batman comics?",
+      "correct_answer": "Dick Grayson",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bruce Wayne"
+        },
+        {
+          "id": 1,
+          "answer": "Jason Todd"
+        },
+        {
+          "id": 2,
+          "answer": "Tim Drake"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What&#039;s the name of Batman&#039;s parents?",
+      "correct_answer": "Thomas &amp; Martha",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Joey &amp; Jackie"
+        },
+        {
+          "id": 1,
+          "answer": "Jason &amp; Sarah"
+        },
+        {
+          "id": 2,
+          "answer": "Todd &amp; Mira"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;Archie&quot; comics, who was Jughead&#039;s first girlfriend?",
+      "correct_answer": "Joani",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ethel"
+        },
+        {
+          "id": 1,
+          "answer": "Debbi"
+        },
+        {
+          "id": 2,
+          "answer": "Margret"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Calvin and Hobbes, what is the name of the principal at Calvin&#039;s school?",
+      "correct_answer": "Mr. Spittle",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Mr. Boreman"
+        },
+        {
+          "id": 1,
+          "answer": "Mr. Spitling"
+        },
+        {
+          "id": 2,
+          "answer": "Mr. Moe"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+      "correct_answer": "Scarecrow",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bane"
+        },
+        {
+          "id": 1,
+          "answer": "Calendar Man"
+        },
+        {
+          "id": 2,
+          "answer": "Clayface"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Better known by his nickname Logan, what is Wolverine&#039;s birth name?",
+      "correct_answer": "James Howlett",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Logan Wolf"
+        },
+        {
+          "id": 1,
+          "answer": "Thomas Wilde"
+        },
+        {
+          "id": 2,
+          "answer": "John Savage"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the real name of the &quot;Master Of Magnetism&quot; Magneto?",
+      "correct_answer": "Max Eisenhardt",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Charles Xavier"
+        },
+        {
+          "id": 1,
+          "answer": "Pietro Maximoff"
+        },
+        {
+          "id": 2,
+          "answer": "Johann Schmidt"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?",
+      "correct_answer": "Takua",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jaller"
+        },
+        {
+          "id": 1,
+          "answer": "Vakama"
+        },
+        {
+          "id": 2,
+          "answer": "Tahu"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When Batman trolls the online chat rooms, what alias does he use?",
+      "correct_answer": "JonDoe297",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "iAmBatman"
+        },
+        {
+          "id": 1,
+          "answer": "BWayne13"
+        },
+        {
+          "id": 2,
+          "answer": "BW1129"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+      "correct_answer": "Prospit",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "No Name"
+        },
+        {
+          "id": 1,
+          "answer": "Golden City"
+        },
+        {
+          "id": 2,
+          "answer": "Yellow Moon"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+      "correct_answer": "Roy Harper",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Black Canary"
+        },
+        {
+          "id": 1,
+          "answer": "Emiko Queen"
+        },
+        {
+          "id": 2,
+          "answer": "Dick Grayson"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Batman sidekick is the son of Talia al Ghul?",
+      "correct_answer": "Damian Wayne",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Dick Grayson"
+        },
+        {
+          "id": 1,
+          "answer": "Tim Drake"
+        },
+        {
+          "id": 2,
+          "answer": "Jason Todd"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+      "correct_answer": "Wally West",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Johnny Quick"
+        },
+        {
+          "id": 1,
+          "answer": "Jay Garrick"
+        },
+        {
+          "id": 2,
+          "answer": "Eobard Thawne"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+      "correct_answer": "Muhammad Ali",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Mike Tyson"
+        },
+        {
+          "id": 1,
+          "answer": "Sylvester Stallone"
+        },
+        {
+          "id": 2,
+          "answer": "Arnold Schwarzenegger"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
+      "correct_answer": "Rosalyn",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Rose"
+        },
+        {
+          "id": 1,
+          "answer": "Ruby"
+        },
+        {
+          "id": 2,
+          "answer": "Rachel"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The &quot;Pepe&quot; meme originated from a comic drawn by Matt Furie called &quot;Boy&#039;s Club&quot;?",
+      "correct_answer": true,
+      "id": 44
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Hellboy universe, who founded the BPRD?",
+      "correct_answer": "Trevor Bruttenholm",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Kate Corrigan"
+        },
+        {
+          "id": 1,
+          "answer": "Johann Kraus"
+        },
+        {
+          "id": 2,
+          "answer": "Benjamin Daimio"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In what Homestuck Update was [S] Game Over released?",
+      "correct_answer": "October 25th, 2014",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "April 13th, 2009"
+        },
+        {
+          "id": 1,
+          "answer": "April 8th, 2012"
+        },
+        {
+          "id": 2,
+          "answer": "August 28th, 2003"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+      "correct_answer": "Thomas Hobbes",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "David Hobbes"
+        },
+        {
+          "id": 1,
+          "answer": "John Hobbes"
+        },
+        {
+          "id": 2,
+          "answer": "Nathaniel Hobbes"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In the webcomic Homestuck, the first character introduced is Dave Strider.",
+      "correct_answer": false,
+      "id": 48
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+      "correct_answer": "Clark Kent",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bruce Wayne"
+        },
+        {
+          "id": 1,
+          "answer": "Arthur Curry"
+        },
+        {
+          "id": 2,
+          "answer": "John Jones"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+      "correct_answer": "Zodiac",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Scorpio"
+        },
+        {
+          "id": 1,
+          "answer": "Tiger Mafia"
+        },
+        {
+          "id": 2,
+          "answer": "The Union"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the comics, which Sonic character took command of the Dark Legion after Luger&#039;s assassination?",
+      "correct_answer": "Lien-Da",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Kragok"
+        },
+        {
+          "id": 1,
+          "answer": "Dimitri"
+        },
+        {
+          "id": 2,
+          "answer": "Remington"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?",
+      "correct_answer": "Bro",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Becquerel"
+        },
+        {
+          "id": 1,
+          "answer": "Doc Scratch"
+        },
+        {
+          "id": 2,
+          "answer": "Halley"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine&#039;s bones and claws?",
+      "correct_answer": "Adamantium",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Titanium"
+        },
+        {
+          "id": 1,
+          "answer": "Vibranium"
+        },
+        {
+          "id": 2,
+          "answer": "Carbonadium"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+      "correct_answer": "Elias Acorn",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Maximillian Acorn"
+        },
+        {
+          "id": 1,
+          "answer": "Alexis Acorn"
+        },
+        {
+          "id": 2,
+          "answer": "Frederick Acorn"
+        }
+      ],
+      "id": 54
+    }
+  ]
+}

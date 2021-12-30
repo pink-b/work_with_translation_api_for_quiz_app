@@ -1,0 +1,468 @@
+{
+  "category": "Art",
+  "category_id": 1,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted &quot;Swans Reflecting Elephants&quot;, &quot;Sleep&quot;, and &quot;The Persistence of Memory&quot;?",
+      "correct_answer": "Salvador Dali",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jackson Pollock"
+        },
+        {
+          "id": 1,
+          "answer": "Vincent van Gogh"
+        },
+        {
+          "id": 2,
+          "answer": "Edgar Degas"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+      "correct_answer": "Andy Warhol",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Roy Lichtenstein"
+        },
+        {
+          "id": 1,
+          "answer": "David Hockney"
+        },
+        {
+          "id": 2,
+          "answer": "Peter Blake"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Pablo Picasso"
+        },
+        {
+          "id": 1,
+          "answer": "Claude Monet"
+        },
+        {
+          "id": 2,
+          "answer": "Vincent van Gogh"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these paintings is not by Caspar David Friedrich?",
+      "correct_answer": "The Black Sea",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Sea of Ice"
+        },
+        {
+          "id": 1,
+          "answer": "Wanderer above the Sea of Fog"
+        },
+        {
+          "id": 2,
+          "answer": "The Monk by the Sea"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Vincent van Gogh cut off one of his ears.",
+      "correct_answer": true,
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which time signature is commonly known as &ldquo;Cut Time?&rdquo;",
+      "correct_answer": "2/2",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "4/4"
+        },
+        {
+          "id": 1,
+          "answer": "6/8"
+        },
+        {
+          "id": 2,
+          "answer": "3/4"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+      "correct_answer": "Neoplasticism",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Precisionism"
+        },
+        {
+          "id": 1,
+          "answer": "Cubism"
+        },
+        {
+          "id": 2,
+          "answer": "Impressionism"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What nationality was the surrealist painter Salvador Dali?",
+      "correct_answer": "Spanish",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Italian"
+        },
+        {
+          "id": 1,
+          "answer": "French"
+        },
+        {
+          "id": 2,
+          "answer": "Portuguese"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;",
+      "correct_answer": true,
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these are the name of a famous marker brand?",
+      "correct_answer": "Copic",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Dopix"
+        },
+        {
+          "id": 1,
+          "answer": "Cofix"
+        },
+        {
+          "id": 2,
+          "answer": "Marx"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who painted the epic mural Guernica?",
+      "correct_answer": "Pablo Picasso",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Francisco Goya"
+        },
+        {
+          "id": 1,
+          "answer": "Leonardo da Vinci"
+        },
+        {
+          "id": 2,
+          "answer": "Henri Matisse"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+      "correct_answer": false,
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted the Sistine Chapel?",
+      "correct_answer": "Michelangelo",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Leonardo da Vinci"
+        },
+        {
+          "id": 1,
+          "answer": "Pablo Picasso"
+        },
+        {
+          "id": 2,
+          "answer": "Raphael"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",
+      "correct_answer": false,
+      "id": 13
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.",
+      "correct_answer": true,
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which artist&#039;s style was to use small different colored dots to create a picture?",
+      "correct_answer": "Georges Seurat",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Paul C&eacute;zanne"
+        },
+        {
+          "id": 1,
+          "answer": "Vincent Van Gogh"
+        },
+        {
+          "id": 2,
+          "answer": "Henri Rousseau"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted The Starry Night?",
+      "correct_answer": "Vincent van Gogh",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Pablo Picasso"
+        },
+        {
+          "id": 1,
+          "answer": "Leonardo da Vinci"
+        },
+        {
+          "id": 2,
+          "answer": "Michelangelo"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the Mona Lisa finished?",
+      "correct_answer": "1504",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1487"
+        },
+        {
+          "id": 1,
+          "answer": "1523"
+        },
+        {
+          "id": 2,
+          "answer": "1511"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted the biblical fresco The Creation of Adam?",
+      "correct_answer": "Michelangelo",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Leonardo da Vinci"
+        },
+        {
+          "id": 1,
+          "answer": "Caravaggio"
+        },
+        {
+          "id": 2,
+          "answer": "Rembrandt"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?",
+      "correct_answer": "1502",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1702"
+        },
+        {
+          "id": 1,
+          "answer": "1402"
+        },
+        {
+          "id": 2,
+          "answer": "1602"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Albrecht D&uuml;rer&#039;s birthplace and place of death were in...",
+      "correct_answer": "N&uuml;rnberg",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Augsburg"
+        },
+        {
+          "id": 1,
+          "answer": "Bamberg"
+        },
+        {
+          "id": 2,
+          "answer": "Berlin"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who designed the Chupa Chups logo?",
+      "correct_answer": "Salvador Dali",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Pablo Picasso"
+        },
+        {
+          "id": 1,
+          "answer": "Andy Warhol"
+        },
+        {
+          "id": 2,
+          "answer": "Vincent van Gogh"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not an additional variation of the color purple?",
+      "correct_answer": "Kobicha",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Byzantium"
+        },
+        {
+          "id": 1,
+          "answer": "Pomp and Power"
+        },
+        {
+          "id": 2,
+          "answer": "Palatinate"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1"
+        },
+        {
+          "id": 1,
+          "answer": "3"
+        },
+        {
+          "id": 2,
+          "answer": "2"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What French sculptor designed the Statue of Liberty? ",
+      "correct_answer": "Fr&eacute;d&eacute;ric Auguste Bartholdi",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jean-L&eacute;on G&eacute;r&ocirc;me"
+        },
+        {
+          "id": 1,
+          "answer": "Auguste Rodin"
+        },
+        {
+          "id": 2,
+          "answer": "Henri Matisse"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.",
+      "correct_answer": true,
+      "id": 25
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "category": "Entertainment: Comics",
+  "category_id": 6,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Какая вселенная кроссовер был введен в «Sonic Hedgehog» Комическая проблема # 247? ",
+      "correct_answer": "Mega Man. ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Super Mario Brothers "
+        },
+        {
+          "id": 1,
+          "answer": "Алекс Кидд "
+        },
+        {
+          "id": 2,
+          "answer": "Супер обезьяна мяч "
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Каковы имена двое отеля; Canon Fan Trolls & quot; в & quot; Homestuck & Quot ;? ",
+      "correct_answer": "Мерфа Дургас и Нектан Уилан ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Wrrown и Voksea Olkido "
+        },
+        {
+          "id": 1,
+          "answer": "AIKTER FREKIK и XAGRAI OLLOMU "
+        },
+        {
+          "id": 2,
+          "answer": "Grekei Ceknux и Riya Camacho "
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "DEADPOOL & # 039; S SLADE WILSON. ",
+      "correct_answer": false,
+      "id": 2
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Когда был впервые опубликован комикс Гарфилда? ",
+      "correct_answer": "1978",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1982. "
+        },
+        {
+          "id": 1,
+          "answer": "1973 год "
+        },
+        {
+          "id": 2,
+          "answer": "1988. "
+        }
+      ],
+      "id": 3
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Что такое Homestuck персонаж Gamzee & # 039; ",
+      "correct_answer": "Макара ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Makera "
+        },
+        {
+          "id": 1,
+          "answer": "Макаре "
+        },
+        {
+          "id": 2,
+          "answer": "Makrea. "
+        }
+      ],
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Как называется главный герой в WebComic Gunnerkrigg Court Chort Tom Siddell? ",
+      "correct_answer": "Сурьма ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Висмут "
+        },
+        {
+          "id": 1,
+          "answer": "Меркурий "
+        },
+        {
+          "id": 2,
+          "answer": "Кобальт "
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Какое обозначение дано в кинематографическую вселенную Marvel? ",
+      "correct_answer": "Земля-199999. ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Земля-616. "
+        },
+        {
+          "id": 1,
+          "answer": "Земля-10005. "
+        },
+        {
+          "id": 2,
+          "answer": "Земля 2008 года "
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Кто Бэтмен? ",
+      "correct_answer": "Брюс Уэйн ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Кларк Кент "
+        },
+        {
+          "id": 1,
+          "answer": "Барри Аллен "
+        },
+        {
+          "id": 2,
+          "answer": "Тони Старк "
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Каковы три добродедения Бионицы? ",
+      "correct_answer": "Единство, долг, судьба ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Построить, играть, изменить "
+        },
+        {
+          "id": 1,
+          "answer": "Работа, Играть, жить "
+        },
+        {
+          "id": 2,
+          "answer": "Кузнеть, построить, бороться "
+        }
+      ],
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В Кэлвин и Гоббс, как называется парень няня? ",
+      "correct_answer": "Чарли ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Дейв "
+        },
+        {
+          "id": 1,
+          "answer": "Чарльз "
+        },
+        {
+          "id": 2,
+          "answer": "Nathaniel. "
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Этот Marvel Superhero часто называется «человек без страха». ",
+      "correct_answer": "Сорвиголова ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Тора "
+        },
+        {
+          "id": 1,
+          "answer": "Росомаха "
+        },
+        {
+          "id": 2,
+          "answer": "Халк "
+        }
+      ],
+      "id": 10
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Какой из следующих супергероев удивлялся женщину, в которой нет любви? ",
+      "correct_answer": "Зеленая стрелка ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Супермен "
+        },
+        {
+          "id": 1,
+          "answer": "Бэтмен "
+        },
+        {
+          "id": 2,
+          "answer": "Стив Тревор "
+        }
+      ],
+      "id": 11
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Кто удивил приключения Тинтина? ",
+      "correct_answer": "HERG & EACUTE; ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Экипаж Jacobs "
+        },
+        {
+          "id": 1,
+          "answer": "Оловян "
+        },
+        {
+          "id": 2,
+          "answer": "Chic Young "
+        }
+      ],
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Главный шестилетний главный герой в Кальвина и Гоббсе назван в честь того, что богослов? ",
+      "correct_answer": "Джон Кэлвин ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Кельвин Кляйн "
+        },
+        {
+          "id": 1,
+          "answer": "Calvin Coolidge "
+        },
+        {
+          "id": 2,
+          "answer": "Филипп Кальвин Макгровка "
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Какой из следующих колец из комиксов постоянного тока & # 039; «корпус фонарина»; классифицируются как паразитарные? ",
+      "correct_answer": "Индиго (сострадание) ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Зеленый (сила сила) "
+        },
+        {
+          "id": 1,
+          "answer": "Белый (Жизнь) "
+        },
+        {
+          "id": 2,
+          "answer": "Желтый (страх) "
+        }
+      ],
+      "id": 14
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В & quot; Sonic Hedgehog & quot; Комикс, который был создателем роботизатора? ",
+      "correct_answer": "Профессор Чарльз Хедж ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Джулиан Роботник "
+        },
+        {
+          "id": 1,
+          "answer": "IVO Robotnik "
+        },
+        {
+          "id": 2,
+          "answer": "Ярно Роботник "
+        }
+      ],
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Кто был вдохновением для Cuthbert Calculus в серии Tintin? ",
+      "correct_answer": "Август Пиккард ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Жак Пикард "
+        },
+        {
+          "id": 1,
+          "answer": "Будет Моррис "
+        },
+        {
+          "id": 2,
+          "answer": "Дж. Cecil Maby "
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В каком году был первый San Diego Comic-Con? ",
+      "correct_answer": "1970",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2000. "
+        },
+        {
+          "id": 1,
+          "answer": "1990. "
+        },
+        {
+          "id": 2,
+          "answer": "1985. "
+        }
+      ],
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "В «Homestuck & Quot; «Королевство тьмы» также известен как? ",
+      "correct_answer": "Косо ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Skaia. "
+        },
+        {
+          "id": 1,
+          "answer": "Проспект "
+        },
+        {
+          "id": 2,
+          "answer": "Средний "
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Что такое реальный цвет волос основной версии комиксов (Земля-616) Смедевилья? ",
+      "correct_answer": "Блондинка ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Овладеть "
+        },
+        {
+          "id": 1,
+          "answer": "коричневый "
+        },
+        {
+          "id": 2,
+          "answer": "Чернить "
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В Кэлвин и Гоббсе, как называется Susie & # 039; Фаршированный кролик? ",
+      "correct_answer": "Мистер Булочка ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Мистер Бунбун "
+        },
+        {
+          "id": 1,
+          "answer": "Мистер Кролик "
+        },
+        {
+          "id": 2,
+          "answer": "Мистер Шоппи "
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Кто второй человек, чтобы занять мантию ночной совы в наблюдении на графическом романе сторожевых? ",
+      "correct_answer": "Даниэль Дрейберг ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Нельсон Гарднер "
+        },
+        {
+          "id": 1,
+          "answer": "Hollis Mason "
+        },
+        {
+          "id": 2,
+          "answer": "Адриан Виод "
+        }
+      ],
+      "id": 21
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "В комической книге «Арчи» Бетти дружит с Вероникой, потому что она богата. ",
+      "correct_answer": false,
+      "id": 22
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Какой выпуск \"Sonic hedgehog & quot; Комикс пробил почет ежика сделать свой первый вид? ",
+      "correct_answer": "Sonic Hedgehog # 11 ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Соник Вселенная # 32 "
+        },
+        {
+          "id": 1,
+          "answer": "Sonic Hedgehog # 161 "
+        },
+        {
+          "id": 2,
+          "answer": "Sonic Hedgehog # 47 "
+        }
+      ],
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Когда были основаны Marvel Comics? ",
+      "correct_answer": "1939",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1932 г. "
+        },
+        {
+          "id": 1,
+          "answer": "1951. "
+        },
+        {
+          "id": 2,
+          "answer": "1936 г. "
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В WebComic & quot; ava & # 039; simon & quot;, какой грех есть & quot; Nevy Nericnine & Quot; Исходя из? ",
+      "correct_answer": "Завидовать ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Лень "
+        },
+        {
+          "id": 1,
+          "answer": "Гнев "
+        },
+        {
+          "id": 2,
+          "answer": "Вовле "
+        }
+      ],
+      "id": 25
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Кто является создателем комической серии «Ходячие мертвецы»? ",
+      "correct_answer": "Роберт Киркман ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Стэн Ли. "
+        },
+        {
+          "id": 1,
+          "answer": "Малкольм Уилер-Николсон "
+        },
+        {
+          "id": 2,
+          "answer": "Роберт Кромб "
+        }
+      ],
+      "id": 26
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Как называется комикс о молодом мальчике, а тигра, который на самом деле чучело? ",
+      "correct_answer": "Кальвин и Гоббс ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Винни-Пух "
+        },
+        {
+          "id": 1,
+          "answer": "Альберт и Пого "
+        },
+        {
+          "id": 2,
+          "answer": "Арахис "
+        }
+      ],
+      "id": 27
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Кто написал сериал Batman Comic & quot; убийство шутки \"? ",
+      "correct_answer": "Алан Мур ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Складки "
+        },
+        {
+          "id": 1,
+          "answer": "Фрэнк Миллер "
+        },
+        {
+          "id": 2,
+          "answer": "Джерри Зигель "
+        }
+      ],
+      "id": 28
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Как было название первого Робина в комиксах Бэтмена? ",
+      "correct_answer": "Дик Грейсон ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Брюс Уэйн "
+        },
+        {
+          "id": 1,
+          "answer": "Джейсон Тодд "
+        },
+        {
+          "id": 2,
+          "answer": "Тим Дрейк "
+        }
+      ],
+      "id": 29
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Что & # 039; имя родителей Batman & # 039; ",
+      "correct_answer": "Thomas & Amp; Марта ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Joey & amp; Джеки "
+        },
+        {
+          "id": 1,
+          "answer": "Jason & Amp; Сара "
+        },
+        {
+          "id": 2,
+          "answer": "TODD & AMP; Mira "
+        }
+      ],
+      "id": 30
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В «Archie»; Комикс, кто был Юглодом & # 039 - первая подруга? ",
+      "correct_answer": "Joani ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Этель "
+        },
+        {
+          "id": 1,
+          "answer": "Дебби "
+        },
+        {
+          "id": 2,
+          "answer": "Маршрут "
+        }
+      ],
+      "id": 31
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В Кэлвинском и Гоббсе, как называется директора на Кальвине & # 039; S School? ",
+      "correct_answer": "Мистер Спли ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Мистер Борман "
+        },
+        {
+          "id": 1,
+          "answer": "Мистер Свитьлинг "
+        },
+        {
+          "id": 2,
+          "answer": "Мистер МО. "
+        }
+      ],
+      "id": 32
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В комиксах Бэтмена, к тому, что другое имя - злоумышленник доктор Джонатан Кран известен? ",
+      "correct_answer": "Пугало ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Находчивый "
+        },
+        {
+          "id": 1,
+          "answer": "Календарь человек "
+        },
+        {
+          "id": 2,
+          "answer": "Клейкий "
+        }
+      ],
+      "id": 33
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Лучше известен своим прозвищем Logan, что такое росверин & # 039; имя рождения? ",
+      "correct_answer": "Джеймс Хайлетт ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Логан Вольф "
+        },
+        {
+          "id": 1,
+          "answer": "Томас Уайлд "
+        },
+        {
+          "id": 2,
+          "answer": "Джон Сэвидж "
+        }
+      ],
+      "id": 34
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Что такое настоящее имя «Мастер магнетизма»; Магнито? ",
+      "correct_answer": "Макс Эйзенхардт ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Чарльз Ксавье "
+        },
+        {
+          "id": 1,
+          "answer": "Pietro Maximoff. "
+        },
+        {
+          "id": 2,
+          "answer": "Йоганн Шмидт "
+        }
+      ],
+      "id": 35
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В Бионике, который раньше был Ав-Маторан, а теперь он светлый? ",
+      "correct_answer": "Такуа ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jaller "
+        },
+        {
+          "id": 1,
+          "answer": "Вакама "
+        },
+        {
+          "id": 2,
+          "answer": "Тау "
+        }
+      ],
+      "id": 36
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Когда Бэтмен троллирует онлайн-чаты, что псевдоним он использует? ",
+      "correct_answer": "Jondo E297. ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "я Бэтмен "
+        },
+        {
+          "id": 1,
+          "answer": "BWAYNE13. "
+        },
+        {
+          "id": 2,
+          "answer": "BW1129. "
+        }
+      ],
+      "id": 37
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В серии Homestukak, какое альтернативное имя для царства огней? ",
+      "correct_answer": "Проспект ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Без имени "
+        },
+        {
+          "id": 1,
+          "answer": "Золотой город "
+        },
+        {
+          "id": 2,
+          "answer": "Желтая луна "
+        }
+      ],
+      "id": 38
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Который \"зеленая стрелка\" Sidekick обычно носит бейсболка? ",
+      "correct_answer": "Рой Харпер ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Черная канарейка "
+        },
+        {
+          "id": 1,
+          "answer": "Эмико королева "
+        },
+        {
+          "id": 2,
+          "answer": "Дик Грейсон "
+        }
+      ],
+      "id": 39
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Какой Бэтмен Синкик - сын Талии Аль-Гул? ",
+      "correct_answer": "Дамиан Уэйн ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Дик Грейсон "
+        },
+        {
+          "id": 1,
+          "answer": "Тим Дрейк "
+        },
+        {
+          "id": 2,
+          "answer": "Джейсон Тодд "
+        }
+      ],
+      "id": 40
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В DC Comics 2016 перезагрузитесь, перезагружение, в котором Speedster сбежал от силы скорости после того, как он был удален от существования? ",
+      "correct_answer": "Уолли Уэт ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Джонни Быстр "
+        },
+        {
+          "id": 1,
+          "answer": "Джей Гаррик "
+        },
+        {
+          "id": 2,
+          "answer": "Eobard Thawne. "
+        }
+      ],
+      "id": 41
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В 1978 году Супермен объединился с какой знаменитостью, чтобы победить инопланетное вторжение? ",
+      "correct_answer": "Мухаммед Али ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Майк Тайсон "
+        },
+        {
+          "id": 1,
+          "answer": "Сильвестр Сталлоне "
+        },
+        {
+          "id": 2,
+          "answer": "Арнольд Шварцнеггер "
+        }
+      ],
+      "id": 42
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Что такое полное имя няня в Кэлвин и Гоббс? ",
+      "correct_answer": "Розалын ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Роза "
+        },
+        {
+          "id": 1,
+          "answer": "Рубин "
+        },
+        {
+          "id": 2,
+          "answer": "Рэйчел "
+        }
+      ],
+      "id": 43
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "«Пепе & quot; Мем возник из комиксов, нарисованных Мэттом Фурисом, называемым & quot; Boy & # 039; S Club & Quot;? ",
+      "correct_answer": true,
+      "id": 44
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В Hellboy Вселенная, кто основал BPRD? ",
+      "correct_answer": "Тревор Бруттенм ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Кейт Кориган "
+        },
+        {
+          "id": 1,
+          "answer": "Йоганн Краус "
+        },
+        {
+          "id": 2,
+          "answer": "Бенджамин Даймио "
+        }
+      ],
+      "id": 45
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "В каком обновлении Homestuck была игра [S], выпущенная? ",
+      "correct_answer": "25 октября 2014 ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "13 апреля 2009 г. "
+        },
+        {
+          "id": 1,
+          "answer": "8 апреля 2012 "
+        },
+        {
+          "id": 2,
+          "answer": "28 августа 2003 года "
+        }
+      ],
+      "id": 46
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Фаршированный тигр в Кальвине и Гоббесе назван в честь того, что философ? ",
+      "correct_answer": "Томас Гоббс ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Дэвид Хоббс "
+        },
+        {
+          "id": 1,
+          "answer": "Джон Хоббс "
+        },
+        {
+          "id": 2,
+          "answer": "Натаниэль Гоббс "
+        }
+      ],
+      "id": 47
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "В WebComic Homestuck первый персонаж представил Дэйв-Страдер. ",
+      "correct_answer": false,
+      "id": 48
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Что такое альтер-эго Характа комиксов постоянного тока; Супермен \"? ",
+      "correct_answer": "Кларк Кент ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Брюс Уэйн "
+        },
+        {
+          "id": 1,
+          "answer": "Артур Карри "
+        },
+        {
+          "id": 2,
+          "answer": "Джон Джонс "
+        }
+      ],
+      "id": 49
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В Marvel Comics Taurus является основателем и лидером какой преступной организации? ",
+      "correct_answer": "Зодиак ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Скорпион "
+        },
+        {
+          "id": 1,
+          "answer": "Тигр Мафия "
+        },
+        {
+          "id": 2,
+          "answer": "Союз "
+        }
+      ],
+      "id": 50
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В комиксах, какой звуковой персонаж взял команду темного легиона после пробива и удаления # 039; ",
+      "correct_answer": "Лиен-да. ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "КРАГОК "
+        },
+        {
+          "id": 1,
+          "answer": "Димитрий "
+        },
+        {
+          "id": 2,
+          "answer": "Ремингтон "
+        }
+      ],
+      "id": 51
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "В «Homestuck & Quot; Что такое Dave Strider & # 039; опекун? ",
+      "correct_answer": "братан ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Бесконечный "
+        },
+        {
+          "id": 1,
+          "answer": "Док царапин "
+        },
+        {
+          "id": 2,
+          "answer": "Галлей "
+        }
+      ],
+      "id": 52
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Найден в Marvel Comics вымышленной вселенной, как называется почти неразрушимый металл, который мошенники и когтями и когтями? ",
+      "correct_answer": "Адамантиум ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Титан "
+        },
+        {
+          "id": 1,
+          "answer": "Вибрань "
+        },
+        {
+          "id": 2,
+          "answer": "Карбонадиум "
+        }
+      ],
+      "id": 53
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "В досектелю Генезиса Генезиса \"Sonic hedgehog & quot; Comic, как было название Sally Acorn & # 039; брат? ",
+      "correct_answer": "Elias acorn. ",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Максимильский желудь "
+        },
+        {
+          "id": 1,
+          "answer": "Алексис желудь "
+        },
+        {
+          "id": 2,
+          "answer": "Фредерик Жерн "
+        }
+      ],
+      "id": 54
+    }
+  ]
+}

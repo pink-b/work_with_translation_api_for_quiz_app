@@ -1,0 +1,972 @@
+{
+  "category": "Politics",
+  "category_id": 17,
+  "questions": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which former US president used &quot;Let&#039;s Make America Great Again&quot; as his campaign slogan before Donald Trump&#039;s campaign?",
+      "correct_answer": "Ronald Reagan",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jimmy Carter"
+        },
+        {
+          "id": 1,
+          "answer": "Gerald Ford"
+        },
+        {
+          "id": 2,
+          "answer": "Richard Nixon"
+        }
+      ],
+      "id": 0
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the only president to not be in office in Washington D.C?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Abraham Lincoln"
+        },
+        {
+          "id": 1,
+          "answer": "Richard Nixon"
+        },
+        {
+          "id": 2,
+          "answer": "Thomas Jefferson"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",
+      "correct_answer": "Chinese Taipei",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Chinese Taiwan"
+        },
+        {
+          "id": 1,
+          "answer": "Republic of Taiwan"
+        },
+        {
+          "id": 2,
+          "answer": "Republic of Taipei "
+        }
+      ],
+      "id": 2
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Donald Trump won the popular vote in the 2016 United States presidential election.",
+      "correct_answer": false,
+      "id": 3
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In 2016, the United Kingdom voted to stay in the EU.",
+      "correct_answer": false,
+      "id": 4
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?",
+      "correct_answer": "True Conservative Radio",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "True Republican Radio"
+        },
+        {
+          "id": 1,
+          "answer": "Texan Capitalist Radio"
+        },
+        {
+          "id": 2,
+          "answer": "United Capitalists"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following Pacific Islander countries is ruled by a constitutional monarchy?",
+      "correct_answer": "Tonga",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Palau"
+        },
+        {
+          "id": 1,
+          "answer": "Fiji"
+        },
+        {
+          "id": 2,
+          "answer": "Kiribati"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The largest consumer market in 2015 was...",
+      "correct_answer": "The United States of America",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Germany"
+        },
+        {
+          "id": 1,
+          "answer": "Japan"
+        },
+        {
+          "id": 2,
+          "answer": "United Kingdom"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Helen Clark was the 37th Prime Minister of Australia.",
+      "correct_answer": false,
+      "id": 8
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",
+      "correct_answer": "The Kingfish",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Champ"
+        },
+        {
+          "id": 1,
+          "answer": "The Hoot Owl"
+        },
+        {
+          "id": 2,
+          "answer": "The Oracle"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "George W. Bush lost the popular vote in the 2004 United States presidential election.",
+      "correct_answer": false,
+      "id": 10
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Joko Widodo has appeared in the cover of a TIME magazine.",
+      "correct_answer": true,
+      "id": 11
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+      "correct_answer": false,
+      "id": 12
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who became Prime Minister of the United Kingdom in July 2016?",
+      "correct_answer": "Theresa May",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Boris Johnson"
+        },
+        {
+          "id": 1,
+          "answer": "David Cameron"
+        },
+        {
+          "id": 2,
+          "answer": "Tony Blair"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many people are in the U.S. House of Representatives?",
+      "correct_answer": "435",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "260"
+        },
+        {
+          "id": 1,
+          "answer": "415"
+        },
+        {
+          "id": 2,
+          "answer": "50"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Jeb Bush was elected as Governor of Florida in 2002, starting his political career.",
+      "correct_answer": false,
+      "id": 15
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+      "correct_answer": "Chile",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ethiopia"
+        },
+        {
+          "id": 1,
+          "answer": "Indonesia"
+        },
+        {
+          "id": 2,
+          "answer": "Nicaragua"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.",
+      "correct_answer": false,
+      "id": 17
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which president erased the national debt of the United States?",
+      "correct_answer": "Andrew Jackson",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ronald Reagan"
+        },
+        {
+          "id": 1,
+          "answer": "John F. Kennedy"
+        },
+        {
+          "id": 2,
+          "answer": "Franklin Roosevelt"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "correct_answer": "Nikita Khrushchev",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Leonid Brezhnev"
+        },
+        {
+          "id": 1,
+          "answer": "Mikhail Gorbachev"
+        },
+        {
+          "id": 2,
+          "answer": "Boris Yeltsin"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these was an official candidate in the 2017 British General Election?",
+      "correct_answer": "Lord Buckethead",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "James Francis"
+        },
+        {
+          "id": 1,
+          "answer": "Robert Wimbledon"
+        },
+        {
+          "id": 2,
+          "answer": "Sir Crumpetsby"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Denmark has a monarch.",
+      "correct_answer": true,
+      "id": 21
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.",
+      "correct_answer": true,
+      "id": 22
+    },
+    {
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+      "correct_answer": false,
+      "id": 23
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the only US president to serve two non-consecutive terms in office?",
+      "correct_answer": "Grover Cleveland",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "James K. Polk"
+        },
+        {
+          "id": 1,
+          "answer": "Franklin D. Roosevelt"
+        },
+        {
+          "id": 2,
+          "answer": "Thomas Jefferson"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1"
+        },
+        {
+          "id": 1,
+          "answer": "2"
+        },
+        {
+          "id": 2,
+          "answer": "0"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the first names of the first father and son pair that were both Prime Ministers of Canada?",
+      "correct_answer": "Justin and Pierre",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "John and Louis"
+        },
+        {
+          "id": 1,
+          "answer": "Brian and Justin"
+        },
+        {
+          "id": 2,
+          "answer": "Brian and Pierre"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Former president Theodore Roosevelt (1900-1908)  ran for another term under the Progressive Party in 1912.",
+      "correct_answer": true,
+      "id": 27
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is NOT one of Donald Trump&#039;s children?",
+      "correct_answer": "Julius",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Donald Jr."
+        },
+        {
+          "id": 1,
+          "answer": "Ivanka"
+        },
+        {
+          "id": 2,
+          "answer": "Eric"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the 40th President of the USA?",
+      "correct_answer": "Ronald Reagan",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Jimmy Carter"
+        },
+        {
+          "id": 1,
+          "answer": "Bill Clinton"
+        },
+        {
+          "id": 2,
+          "answer": "Richard Nixon"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+      "correct_answer": "Yomba Shoshone Tribe",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Standing Rock Sioux Tribe"
+        },
+        {
+          "id": 1,
+          "answer": "Kiowa Tribe of Oklahoma"
+        },
+        {
+          "id": 2,
+          "answer": "Pawnee Nation of Oklahoma"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",
+      "correct_answer": false,
+      "id": 31
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+      "correct_answer": "The Prince",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "The Rape of Lucrece"
+        },
+        {
+          "id": 1,
+          "answer": "Will to Power"
+        },
+        {
+          "id": 2,
+          "answer": "Love&#039;s Labours Lost"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "There was a satirical candidate named &quot;Deez Nuts&quot; running in the 2016 US presidential elections.",
+      "correct_answer": true,
+      "id": 33
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Watergate Scandal occured in what year?",
+      "correct_answer": "1972",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1973"
+        },
+        {
+          "id": 1,
+          "answer": "1974"
+        },
+        {
+          "id": 2,
+          "answer": "1971"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which former US president was nicknamed &quot;Teddy&quot; after he refused to shoot a defenseless black bear?",
+      "correct_answer": "Theodore Roosevelt",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Woodrow Wilson"
+        },
+        {
+          "id": 1,
+          "answer": "James F. Fielder"
+        },
+        {
+          "id": 2,
+          "answer": "Andrew Jackson"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did Gerald Ford Become President?",
+      "correct_answer": "1974",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "1977"
+        },
+        {
+          "id": 1,
+          "answer": "1973"
+        },
+        {
+          "id": 2,
+          "answer": "1969"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is former United States President Bill Clinton&#039;s full name?",
+      "correct_answer": "William Jefferson Clinton",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "William Roosevelt Clinton"
+        },
+        {
+          "id": 1,
+          "answer": "William Truman Clinton"
+        },
+        {
+          "id": 2,
+          "answer": "William Lincoln Clinton"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Before 2016, in which other year did Donald Trump run for President?",
+      "correct_answer": "2000",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2012"
+        },
+        {
+          "id": 1,
+          "answer": "1988"
+        },
+        {
+          "id": 2,
+          "answer": "2008"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the United States Constitution, how old must a person be to be elected President of the United States?",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "30"
+        },
+        {
+          "id": 1,
+          "answer": "40"
+        },
+        {
+          "id": 2,
+          "answer": "45"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the longest-serving senator in US history, serving from 1959 to 2010?",
+      "correct_answer": "Robert Byrd",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Daniel Inouye"
+        },
+        {
+          "id": 1,
+          "answer": "Strom Thurmond"
+        },
+        {
+          "id": 2,
+          "answer": "Joe Biden"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "&quot;Yes, America Can!&quot; was this United States politician&#039;s de facto campaign slogan in 2004.",
+      "correct_answer": "George W. Bush",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "John Kerry"
+        },
+        {
+          "id": 1,
+          "answer": "Barack Obama"
+        },
+        {
+          "id": 2,
+          "answer": "Al Gore"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Former United States President Bill Clinton famously played which instrument?",
+      "correct_answer": "Saxophone",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Baritone horn"
+        },
+        {
+          "id": 1,
+          "answer": "Piano"
+        },
+        {
+          "id": 2,
+          "answer": "Violin"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the British Prime Minister at the outbreak of the Second World War?",
+      "correct_answer": "Neville Chamberlain",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Clement Attlee"
+        },
+        {
+          "id": 1,
+          "answer": "Winston Churchill"
+        },
+        {
+          "id": 2,
+          "answer": "Stanley Baldwin"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following United States Presidents served the shortest term in office?",
+      "correct_answer": "William Henry Harrison",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Zachary Taylor"
+        },
+        {
+          "id": 1,
+          "answer": "James A. Garfield"
+        },
+        {
+          "id": 2,
+          "answer": "Warren G. Harding"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was elected leader of the UK Labour Party in September 2015?",
+      "correct_answer": "Jeremy Corbyn",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ed Miliband"
+        },
+        {
+          "id": 1,
+          "answer": "David Cameron"
+        },
+        {
+          "id": 2,
+          "answer": "Theresa May"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Argentinian presidents was elected in 2015?",
+      "correct_answer": "Mauricio Macri",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Cristina Fernandez de Kirchner"
+        },
+        {
+          "id": 1,
+          "answer": "Nestor Kirchner"
+        },
+        {
+          "id": 2,
+          "answer": "Juan Domingo Peron"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?",
+      "correct_answer": "Donald Trump",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Ted Cruz"
+        },
+        {
+          "id": 1,
+          "answer": "Marco Rubio"
+        },
+        {
+          "id": 2,
+          "answer": "Bernie Sanders"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?",
+      "correct_answer": "2009",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "2012"
+        },
+        {
+          "id": 1,
+          "answer": "2006"
+        },
+        {
+          "id": 2,
+          "answer": "1997"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+      "correct_answer": "Strom Thurmond",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Roy Blunt"
+        },
+        {
+          "id": 1,
+          "answer": "John Barrasso"
+        },
+        {
+          "id": 2,
+          "answer": "Chuck Schumer"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Russia passed a law in 2013 which outlaws telling children that homosexuals exist.",
+      "correct_answer": true,
+      "id": 50
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.",
+      "correct_answer": true,
+      "id": 51
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Bahrain"
+        },
+        {
+          "id": 1,
+          "answer": "United States of America"
+        },
+        {
+          "id": 2,
+          "answer": "Russia"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?",
+      "correct_answer": "Indonesia",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Thailand"
+        },
+        {
+          "id": 1,
+          "answer": "Brunei"
+        },
+        {
+          "id": 2,
+          "answer": "Malaysia"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+      "correct_answer": true,
+      "id": 54
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which letter do you need to have on a European driver license in order to ride any motorbikes?",
+      "correct_answer": "A",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "X"
+        },
+        {
+          "id": 1,
+          "answer": "D"
+        },
+        {
+          "id": 2,
+          "answer": "B"
+        }
+      ],
+      "id": 55
+    },
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "One of Barack Obama&#039;s United States presidential campaign slogan&#039;s was &quot;Yes We Can&quot;.",
+      "correct_answer": true,
+      "id": 56
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the 45th President of the United States?",
+      "correct_answer": "Donald Trump",
+      "incorrect_answers": [
+        {
+          "id": 0,
+          "answer": "Barack Obama"
+        },
+        {
+          "id": 1,
+          "answer": "Bill Clinton"
+        },
+        {
+          "id": 2,
+          "answer": "George Bush"
+        }
+      ],
+      "id": 57
+    }
+  ]
+}
